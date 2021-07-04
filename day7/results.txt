@@ -1,0 +1,3474 @@
+looking for striped_tan
+looking for light_silver
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for dark_black
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for dim_silver
+looking for vibrant_black
+looking for posh_silver
+----------
+looking for faded_maroon
+looking for pale_aqua
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for dim_crimson
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for plaid_indigo
+looking for dull_purple
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for mirrored_brown
+looking for posh_bronze
+looking for clear_coral
+looking for muted_gold
+----------
+looking for faded_gray
+looking for drab_beige
+looking for dotted_olive
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for bright_salmon
+looking for striped_white
+----------
+looking for plaid_brown
+looking for mirrored_violet
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for vibrant_lime
+looking for posh_yellow
+looking for mirrored_blue
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for pale_gold
+looking for vibrant_cyan
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for dotted_orange
+looking for faded_fuchsia
+looking for faded_silver
+looking for striped_white
+----------
+looking for mirrored_chartreuse
+looking for bright_black
+looking for dark_maroon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for drab_blue
+looking for plaid_turquoise
+----------
+looking for dark_violet
+looking for plaid_lavender
+looking for dotted_olive
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for pale_salmon
+looking for dark_red
+looking for dim_violet
+looking for vibrant_bronze
+looking for muted_gold
+----------
+looking for wavy_fuchsia
+looking for striped_plum
+looking for striped_magenta
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for shiny_gray
+looking for dull_salmon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for dark_plum
+looking for pale_red
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for mirrored_green
+looking for faded_red
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for drab_brown
+looking for light_violet
+looking for dark_crimson
+----------
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for clear_olive
+looking for muted_gold
+----------
+looking for dim_blue
+looking for pale_red
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for drab_indigo
+looking for clear_fuchsia
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for dull_tomato
+looking for wavy_purple
+looking for wavy_black
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for light_salmon
+looking for clear_crimson
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for light_green
+looking for dull_olive
+looking for muted_teal
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for muted_coral
+looking for pale_indigo
+looking for faded_red
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for plaid_chartreuse
+looking for dark_gray
+----------
+looking for dull_plum
+looking for wavy_gray
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for plaid_crimson
+looking for mirrored_blue
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for light_tomato
+looking for mirrored_chartreuse
+looking for bright_black
+looking for dark_maroon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for muted_fuchsia
+looking for plaid_turquoise
+----------
+looking for wavy_salmon
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for dim_turquoise
+looking for dull_salmon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for striped_red
+looking for clear_turquoise
+----------
+looking for light_purple
+looking for clear_chartreuse
+looking for dull_bronze
+looking for drab_tomato
+looking for wavy_gray
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for pale_purple
+looking for plaid_fuchsia
+looking for mirrored_bronze
+looking for light_black
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for mirrored_violet
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for mirrored_olive
+looking for posh_fuchsia
+looking for striped_crimson
+looking for pale_aqua
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for shiny_aqua
+looking for vibrant_olive
+looking for shiny_gold
+FOUND FROM: shiny_aqua
+----------
+looking for bright_crimson
+looking for muted_cyan
+looking for posh_green
+looking for dark_crimson
+----------
+looking for light_gray
+looking for plaid_coral
+looking for drab_tomato
+looking for wavy_gray
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for faded_chartreuse
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for clear_gold
+looking for plaid_coral
+looking for drab_tomato
+looking for wavy_gray
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for faded_tomato
+looking for light_silver
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for wavy_crimson
+looking for dotted_beige
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for plaid_aqua
+looking for dark_aqua
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for drab_yellow
+looking for muted_bronze
+looking for drab_turquoise
+looking for wavy_teal
+looking for muted_gold
+----------
+looking for dim_yellow
+looking for wavy_olive
+looking for dull_salmon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for dotted_teal
+looking for posh_tomato
+looking for bright_orange
+looking for dull_tan
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for plaid_gold
+looking for faded_beige
+looking for dim_olive
+looking for clear_fuchsia
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for faded_indigo
+looking for muted_yellow
+looking for dull_teal
+looking for dull_tan
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for dull_coral
+looking for dotted_tan
+looking for dark_brown
+looking for shiny_olive
+----------
+looking for wavy_tomato
+looking for dull_purple
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for pale_plum
+looking for mirrored_fuchsia
+looking for plaid_lavender
+looking for dotted_olive
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for bright_red
+looking for muted_turquoise
+looking for posh_green
+looking for dark_crimson
+----------
+looking for vibrant_maroon
+looking for bright_indigo
+looking for muted_turquoise
+looking for posh_green
+looking for dark_crimson
+----------
+looking for dull_gray
+looking for dark_chartreuse
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for plaid_silver
+looking for pale_gold
+looking for vibrant_cyan
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for shiny_violet
+looking for pale_crimson
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for shiny_fuchsia
+looking for mirrored_silver
+looking for dark_lime
+looking for clear_olive
+looking for muted_gold
+----------
+looking for drab_bronze
+looking for wavy_beige
+looking for faded_olive
+looking for dark_gray
+----------
+looking for dotted_crimson
+looking for wavy_black
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for dim_beige
+looking for clear_orange
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for posh_red
+looking for faded_indigo
+looking for muted_yellow
+looking for dull_teal
+looking for dull_tan
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for dim_teal
+looking for bright_red
+looking for muted_turquoise
+looking for posh_green
+looking for dark_crimson
+----------
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for posh_aqua
+looking for clear_crimson
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for mirrored_tan
+looking for shiny_olive
+----------
+looking for bright_chartreuse
+looking for plaid_brown
+looking for mirrored_violet
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for drab_purple
+looking for wavy_tan
+looking for mirrored_purple
+looking for clear_coral
+looking for muted_gold
+----------
+looking for faded_coral
+looking for light_tan
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for posh_indigo
+looking for plaid_silver
+looking for pale_gold
+looking for vibrant_cyan
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for plaid_green
+looking for vibrant_teal
+looking for dark_black
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for clear_tan
+looking for striped_magenta
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for posh_white
+looking for bright_black
+looking for dark_maroon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for dotted_maroon
+looking for clear_teal
+looking for shiny_olive
+----------
+looking for dark_magenta
+looking for vibrant_violet
+looking for bright_olive
+looking for clear_purple
+looking for wavy_yellow
+looking for plaid_turquoise
+----------
+looking for shiny_indigo
+looking for dull_lime
+looking for striped_magenta
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for light_fuchsia
+looking for faded_silver
+looking for striped_white
+----------
+looking for light_plum
+looking for clear_crimson
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for dark_purple
+looking for clear_indigo
+looking for dark_gray
+----------
+looking for posh_plum
+looking for mirrored_black
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for wavy_bronze
+looking for faded_magenta
+looking for striped_silver
+looking for muted_cyan
+looking for posh_green
+looking for dark_crimson
+----------
+looking for clear_teal
+looking for shiny_olive
+----------
+looking for plaid_coral
+looking for drab_tomato
+looking for wavy_gray
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for bright_violet
+looking for muted_olive
+looking for dull_plum
+looking for wavy_gray
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for vibrant_white
+looking for light_brown
+looking for plaid_olive
+looking for striped_lavender
+looking for striped_gold
+looking for drab_olive
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for shiny_blue
+looking for vibrant_coral
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for pale_yellow
+looking for dark_tan
+looking for vibrant_teal
+looking for dark_black
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for wavy_cyan
+looking for faded_brown
+looking for mirrored_bronze
+looking for light_black
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for dim_aqua
+looking for dim_fuchsia
+looking for mirrored_turquoise
+looking for pale_crimson
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for mirrored_indigo
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for faded_red
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for clear_silver
+looking for shiny_gray
+looking for dull_salmon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for striped_yellow
+looking for plaid_turquoise
+----------
+looking for light_orange
+looking for bright_blue
+looking for vibrant_green
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for drab_fuchsia
+looking for light_lime
+looking for plaid_crimson
+looking for mirrored_blue
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for pale_black
+looking for dull_aqua
+----------
+looking for clear_lavender
+looking for posh_bronze
+looking for clear_coral
+looking for muted_gold
+----------
+looking for bright_tan
+looking for posh_bronze
+looking for clear_coral
+looking for muted_gold
+----------
+looking for vibrant_blue
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for drab_red
+looking for bright_purple
+looking for mirrored_coral
+looking for pale_aqua
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for faded_teal
+looking for faded_bronze
+looking for posh_bronze
+looking for clear_coral
+looking for muted_gold
+----------
+looking for dark_yellow
+looking for posh_chartreuse
+looking for posh_silver
+----------
+looking for dull_white
+looking for light_green
+looking for dull_olive
+looking for muted_teal
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for clear_yellow
+looking for clear_beige
+looking for dull_yellow
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for light_coral
+looking for dotted_orange
+looking for faded_fuchsia
+looking for faded_silver
+looking for striped_white
+----------
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for bright_olive
+looking for clear_purple
+looking for wavy_yellow
+looking for plaid_turquoise
+----------
+looking for shiny_beige
+looking for pale_silver
+looking for mirrored_turquoise
+looking for pale_crimson
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for dark_aqua
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for pale_green
+looking for clear_olive
+looking for muted_gold
+----------
+looking for muted_violet
+looking for faded_plum
+looking for plaid_lavender
+looking for dotted_olive
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for shiny_brown
+looking for dull_tomato
+looking for wavy_purple
+looking for wavy_black
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for light_cyan
+looking for shiny_bronze
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for plaid_yellow
+looking for vibrant_bronze
+looking for muted_gold
+----------
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for shiny_orange
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for mirrored_blue
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for clear_green
+looking for wavy_orange
+looking for posh_green
+looking for dark_crimson
+----------
+looking for bright_silver
+looking for plaid_aqua
+looking for dark_aqua
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for clear_blue
+looking for dotted_tan
+looking for dark_brown
+looking for shiny_olive
+----------
+looking for posh_silver
+----------
+looking for light_lavender
+looking for dark_gray
+----------
+looking for dull_salmon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for clear_purple
+looking for wavy_yellow
+looking for plaid_turquoise
+----------
+looking for dark_lavender
+looking for clear_purple
+looking for wavy_yellow
+looking for plaid_turquoise
+----------
+looking for dotted_white
+looking for light_fuchsia
+looking for faded_silver
+looking for striped_white
+----------
+looking for mirrored_cyan
+looking for dotted_plum
+looking for wavy_beige
+looking for faded_olive
+looking for dark_gray
+----------
+looking for shiny_cyan
+looking for dotted_blue
+looking for shiny_gold
+FOUND FROM: shiny_cyan
+----------
+looking for clear_tomato
+looking for vibrant_green
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for pale_olive
+looking for faded_red
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for wavy_red
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for pale_violet
+looking for muted_turquoise
+looking for posh_green
+looking for dark_crimson
+----------
+looking for dull_lavender
+looking for faded_turquoise
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for vibrant_aqua
+looking for drab_brown
+looking for light_violet
+looking for dark_crimson
+----------
+looking for shiny_tan
+looking for dark_red
+looking for dim_violet
+looking for vibrant_bronze
+looking for muted_gold
+----------
+looking for clear_turquoise
+----------
+looking for pale_teal
+looking for dotted_brown
+looking for drab_blue
+looking for plaid_turquoise
+----------
+looking for posh_teal
+looking for vibrant_purple
+looking for muted_turquoise
+looking for posh_green
+looking for dark_crimson
+----------
+looking for drab_orange
+looking for striped_magenta
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for plaid_salmon
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for mirrored_white
+looking for light_beige
+looking for dim_magenta
+looking for plaid_salmon
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for mirrored_beige
+looking for dim_tan
+looking for plaid_chartreuse
+looking for dark_gray
+----------
+looking for mirrored_maroon
+looking for dotted_salmon
+looking for pale_tan
+looking for dim_olive
+looking for clear_fuchsia
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for dim_lime
+looking for light_violet
+looking for dark_crimson
+----------
+looking for pale_bronze
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for vibrant_turquoise
+looking for dotted_tan
+looking for dark_brown
+looking for shiny_olive
+----------
+looking for vibrant_crimson
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for dotted_green
+looking for vibrant_lime
+looking for posh_yellow
+looking for mirrored_blue
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for mirrored_gray
+looking for shiny_maroon
+looking for dim_crimson
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for muted_purple
+looking for clear_magenta
+looking for wavy_blue
+looking for wavy_teal
+looking for muted_gold
+----------
+looking for wavy_maroon
+looking for muted_beige
+looking for pale_indigo
+looking for faded_red
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for clear_aqua
+looking for clear_fuchsia
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for mirrored_red
+looking for muted_indigo
+looking for dull_beige
+looking for shiny_gold
+FOUND FROM: mirrored_red
+----------
+looking for vibrant_olive
+looking for shiny_gold
+FOUND FROM: vibrant_olive
+----------
+looking for dull_purple
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for muted_maroon
+looking for posh_green
+looking for dark_crimson
+----------
+looking for shiny_chartreuse
+looking for bright_crimson
+looking for muted_cyan
+looking for posh_green
+looking for dark_crimson
+----------
+looking for pale_crimson
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for vibrant_fuchsia
+looking for shiny_gold
+FOUND FROM: vibrant_fuchsia
+----------
+looking for pale_white
+looking for clear_purple
+looking for wavy_yellow
+looking for plaid_turquoise
+----------
+looking for faded_silver
+looking for striped_white
+----------
+looking for dim_magenta
+looking for plaid_salmon
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for dark_beige
+looking for bright_brown
+looking for muted_black
+looking for pale_indigo
+looking for faded_red
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for wavy_beige
+looking for faded_olive
+looking for dark_gray
+----------
+looking for dark_turquoise
+looking for striped_indigo
+looking for striped_black
+looking for vibrant_black
+looking for posh_silver
+----------
+looking for pale_tan
+looking for dim_olive
+looking for clear_fuchsia
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for muted_beige
+looking for pale_indigo
+looking for faded_red
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for faded_fuchsia
+looking for faded_silver
+looking for striped_white
+----------
+looking for shiny_olive
+----------
+looking for dark_lime
+looking for clear_olive
+looking for muted_gold
+----------
+looking for dim_tan
+looking for plaid_chartreuse
+looking for dark_gray
+----------
+looking for light_bronze
+looking for bright_aqua
+looking for pale_crimson
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for muted_chartreuse
+looking for faded_cyan
+looking for faded_violet
+looking for pale_white
+looking for clear_purple
+looking for wavy_yellow
+looking for plaid_turquoise
+----------
+looking for bright_blue
+looking for vibrant_green
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for light_beige
+looking for dim_magenta
+looking for plaid_salmon
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for dull_maroon
+looking for dotted_gold
+looking for shiny_coral
+looking for dim_orange
+looking for faded_chartreuse
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for bright_lavender
+looking for drab_blue
+looking for plaid_turquoise
+----------
+looking for drab_teal
+looking for shiny_crimson
+looking for dotted_beige
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for faded_tan
+looking for muted_cyan
+looking for posh_green
+looking for dark_crimson
+----------
+looking for wavy_lime
+looking for mirrored_silver
+looking for dark_lime
+looking for clear_olive
+looking for muted_gold
+----------
+looking for dull_turquoise
+looking for posh_green
+looking for dark_crimson
+----------
+looking for clear_salmon
+looking for striped_blue
+looking for shiny_orange
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for wavy_magenta
+looking for dim_gold
+looking for dotted_lavender
+looking for muted_gold
+----------
+looking for striped_crimson
+looking for pale_aqua
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for light_white
+looking for clear_fuchsia
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for bright_magenta
+looking for pale_beige
+looking for muted_gold
+----------
+looking for posh_tan
+looking for plaid_salmon
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for pale_tomato
+looking for posh_salmon
+looking for vibrant_turquoise
+looking for dotted_tan
+looking for dark_brown
+looking for shiny_olive
+----------
+looking for bright_purple
+looking for mirrored_coral
+looking for pale_aqua
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for dark_orange
+looking for drab_olive
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for light_olive
+looking for striped_brown
+looking for plaid_silver
+looking for pale_gold
+looking for vibrant_cyan
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for clear_red
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for wavy_coral
+looking for muted_purple
+looking for clear_magenta
+looking for wavy_blue
+looking for wavy_teal
+looking for muted_gold
+----------
+looking for dull_teal
+looking for dull_tan
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for dark_crimson
+----------
+looking for muted_yellow
+looking for dull_teal
+looking for dull_tan
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for vibrant_orange
+looking for striped_beige
+looking for plaid_salmon
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for faded_gold
+looking for wavy_magenta
+looking for dim_gold
+looking for dotted_lavender
+looking for muted_gold
+----------
+looking for clear_indigo
+looking for dark_gray
+----------
+looking for plaid_olive
+looking for striped_lavender
+looking for striped_gold
+looking for drab_olive
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for dotted_salmon
+looking for pale_tan
+looking for dim_olive
+looking for clear_fuchsia
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for dull_silver
+looking for mirrored_tan
+looking for shiny_olive
+----------
+looking for plaid_fuchsia
+looking for mirrored_bronze
+looking for light_black
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for dotted_beige
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for dark_fuchsia
+looking for clear_turquoise
+----------
+looking for muted_gray
+looking for faded_magenta
+looking for striped_silver
+looking for muted_cyan
+looking for posh_green
+looking for dark_crimson
+----------
+looking for muted_aqua
+looking for vibrant_turquoise
+looking for dotted_tan
+looking for dark_brown
+looking for shiny_olive
+----------
+looking for wavy_indigo
+looking for dotted_salmon
+looking for pale_tan
+looking for dim_olive
+looking for clear_fuchsia
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for plaid_black
+looking for faded_teal
+looking for faded_bronze
+looking for posh_bronze
+looking for clear_coral
+looking for muted_gold
+----------
+looking for muted_plum
+looking for vibrant_teal
+looking for dark_black
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for striped_salmon
+looking for shiny_turquoise
+looking for dotted_black
+looking for pale_bronze
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for mirrored_black
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for striped_black
+looking for vibrant_black
+looking for posh_silver
+----------
+looking for faded_beige
+looking for dim_olive
+looking for clear_fuchsia
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for striped_fuchsia
+looking for dotted_yellow
+looking for dotted_bronze
+looking for drab_olive
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for light_indigo
+looking for pale_gold
+looking for vibrant_cyan
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for mirrored_silver
+looking for dark_lime
+looking for clear_olive
+looking for muted_gold
+----------
+looking for vibrant_black
+looking for posh_silver
+----------
+looking for vibrant_tomato
+looking for striped_beige
+looking for plaid_salmon
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for clear_chartreuse
+looking for dull_bronze
+looking for drab_tomato
+looking for wavy_gray
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for dotted_coral
+looking for dull_brown
+looking for clear_purple
+looking for wavy_yellow
+looking for plaid_turquoise
+----------
+looking for drab_beige
+looking for dotted_olive
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for wavy_plum
+looking for dotted_blue
+looking for shiny_gold
+FOUND FROM: wavy_plum
+----------
+looking for posh_brown
+looking for dark_plum
+looking for pale_red
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for pale_lime
+looking for posh_orange
+looking for faded_aqua
+looking for bright_plum
+looking for mirrored_turquoise
+looking for pale_crimson
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for plaid_tomato
+looking for shiny_gray
+looking for dull_salmon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for shiny_purple
+looking for mirrored_tan
+looking for shiny_olive
+----------
+looking for vibrant_red
+looking for wavy_tomato
+looking for dull_purple
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for dim_lavender
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for dull_beige
+looking for shiny_gold
+FOUND FROM: dull_beige
+----------
+looking for vibrant_cyan
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for striped_chartreuse
+looking for dark_plum
+looking for pale_red
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for pale_magenta
+looking for drab_tomato
+looking for wavy_gray
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for wavy_teal
+looking for muted_gold
+----------
+looking for plaid_tan
+looking for plaid_turquoise
+----------
+looking for striped_lime
+looking for light_yellow
+looking for dim_fuchsia
+looking for mirrored_turquoise
+looking for pale_crimson
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for light_turquoise
+looking for clear_brown
+looking for mirrored_coral
+looking for pale_aqua
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for dim_indigo
+looking for dark_red
+looking for dim_violet
+looking for vibrant_bronze
+looking for muted_gold
+----------
+looking for faded_crimson
+looking for dotted_brown
+looking for drab_blue
+looking for plaid_turquoise
+----------
+looking for vibrant_gold
+looking for pale_turquoise
+looking for bright_crimson
+looking for muted_cyan
+looking for posh_green
+looking for dark_crimson
+----------
+looking for drab_turquoise
+looking for wavy_teal
+looking for muted_gold
+----------
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for mirrored_bronze
+looking for light_black
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for dim_gold
+looking for dotted_lavender
+looking for muted_gold
+----------
+looking for dull_aqua
+----------
+looking for shiny_red
+looking for vibrant_magenta
+looking for plaid_salmon
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for dull_orange
+looking for drab_orange
+looking for striped_magenta
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for striped_violet
+looking for mirrored_tan
+looking for shiny_olive
+----------
+looking for faded_blue
+looking for striped_blue
+looking for shiny_orange
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for dotted_aqua
+looking for plaid_fuchsia
+looking for mirrored_bronze
+looking for light_black
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for shiny_lavender
+looking for wavy_indigo
+looking for dotted_salmon
+looking for pale_tan
+looking for dim_olive
+looking for clear_fuchsia
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for faded_salmon
+looking for shiny_red
+looking for vibrant_magenta
+looking for plaid_salmon
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for muted_orange
+looking for dim_silver
+looking for vibrant_black
+looking for posh_silver
+----------
+looking for drab_silver
+looking for vibrant_yellow
+looking for striped_white
+----------
+looking for dim_white
+looking for drab_orange
+looking for striped_magenta
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for muted_lavender
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for pale_blue
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for clear_bronze
+looking for dull_magenta
+looking for plaid_chartreuse
+looking for dark_gray
+----------
+looking for clear_magenta
+looking for wavy_blue
+looking for wavy_teal
+looking for muted_gold
+----------
+looking for dotted_gold
+looking for shiny_coral
+looking for dim_orange
+looking for faded_chartreuse
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for vibrant_violet
+looking for bright_olive
+looking for clear_purple
+looking for wavy_yellow
+looking for plaid_turquoise
+----------
+looking for posh_fuchsia
+looking for striped_crimson
+looking for pale_aqua
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for faded_white
+looking for plaid_purple
+looking for drab_lavender
+looking for shiny_purple
+looking for mirrored_tan
+looking for shiny_olive
+----------
+looking for dim_plum
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for dull_lime
+looking for striped_magenta
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for plaid_orange
+looking for faded_tan
+looking for muted_cyan
+looking for posh_green
+looking for dark_crimson
+----------
+looking for muted_white
+looking for striped_white
+----------
+looking for bright_gold
+looking for wavy_beige
+looking for faded_olive
+looking for dark_gray
+----------
+looking for pale_maroon
+looking for plaid_salmon
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for posh_cyan
+looking for dotted_brown
+looking for drab_blue
+looking for plaid_turquoise
+----------
+looking for striped_tomato
+looking for vibrant_lime
+looking for posh_yellow
+looking for mirrored_blue
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for dotted_magenta
+looking for wavy_turquoise
+looking for drab_fuchsia
+looking for light_lime
+looking for plaid_crimson
+looking for mirrored_blue
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for wavy_lavender
+looking for light_turquoise
+looking for clear_brown
+looking for mirrored_coral
+looking for pale_aqua
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for clear_plum
+looking for faded_tomato
+looking for light_silver
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for muted_silver
+looking for pale_maroon
+looking for plaid_salmon
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for muted_indigo
+looking for dull_beige
+looking for shiny_gold
+FOUND FROM: muted_indigo
+----------
+looking for light_teal
+looking for clear_magenta
+looking for wavy_blue
+looking for wavy_teal
+looking for muted_gold
+----------
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for muted_lime
+looking for mirrored_bronze
+looking for light_black
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for pale_coral
+looking for vibrant_lime
+looking for posh_yellow
+looking for mirrored_blue
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for mirrored_orange
+looking for dim_orange
+looking for faded_chartreuse
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for vibrant_bronze
+looking for muted_gold
+----------
+looking for plaid_white
+looking for dull_yellow
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for dark_white
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for dull_olive
+looking for muted_teal
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for dull_fuchsia
+looking for wavy_olive
+looking for dull_salmon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for dim_purple
+looking for light_brown
+looking for plaid_olive
+looking for striped_lavender
+looking for striped_gold
+looking for drab_olive
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for mirrored_purple
+looking for clear_coral
+looking for muted_gold
+----------
+looking for dim_bronze
+looking for dull_teal
+looking for dull_tan
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for light_brown
+looking for plaid_olive
+looking for striped_lavender
+looking for striped_gold
+looking for drab_olive
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for faded_turquoise
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for striped_gold
+looking for drab_olive
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for light_black
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for dull_indigo
+looking for muted_bronze
+looking for drab_turquoise
+looking for wavy_teal
+looking for muted_gold
+----------
+looking for light_red
+looking for dim_teal
+looking for bright_red
+looking for muted_turquoise
+looking for posh_green
+looking for dark_crimson
+----------
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for dark_cyan
+looking for striped_magenta
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for plaid_bronze
+looking for shiny_blue
+looking for vibrant_coral
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for muted_cyan
+looking for posh_green
+looking for dark_crimson
+----------
+looking for wavy_orange
+looking for posh_green
+looking for dark_crimson
+----------
+looking for shiny_salmon
+looking for dotted_yellow
+looking for dotted_bronze
+looking for drab_olive
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for pale_turquoise
+looking for bright_crimson
+looking for muted_cyan
+looking for posh_green
+looking for dark_crimson
+----------
+looking for dotted_silver
+looking for dark_orange
+looking for drab_olive
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for dotted_red
+looking for dull_white
+looking for light_green
+looking for dull_olive
+looking for muted_teal
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for striped_blue
+looking for shiny_orange
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for dotted_tan
+looking for dark_brown
+looking for shiny_olive
+----------
+looking for shiny_green
+looking for dark_olive
+looking for dark_gray
+----------
+looking for wavy_tan
+looking for mirrored_purple
+looking for clear_coral
+looking for muted_gold
+----------
+looking for dark_brown
+looking for shiny_olive
+----------
+looking for plaid_cyan
+looking for dull_aqua
+----------
+looking for dark_tomato
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for dark_gold
+looking for pale_teal
+looking for dotted_brown
+looking for drab_blue
+looking for plaid_turquoise
+----------
+looking for striped_indigo
+looking for striped_black
+looking for vibrant_black
+looking for posh_silver
+----------
+looking for faded_lavender
+looking for muted_turquoise
+looking for posh_green
+looking for dark_crimson
+----------
+looking for wavy_black
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for faded_plum
+looking for plaid_lavender
+looking for dotted_olive
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for posh_olive
+looking for striped_beige
+looking for plaid_salmon
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for dim_green
+looking for faded_brown
+looking for mirrored_bronze
+looking for light_black
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for mirrored_magenta
+looking for clear_yellow
+looking for clear_beige
+looking for dull_yellow
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for pale_red
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for bright_black
+looking for dark_maroon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for dark_gray
+----------
+looking for mirrored_plum
+looking for bright_orange
+looking for dull_tan
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for bright_turquoise
+looking for vibrant_yellow
+looking for striped_white
+----------
+looking for posh_beige
+looking for dim_green
+looking for faded_brown
+looking for mirrored_bronze
+looking for light_black
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for bright_maroon
+looking for muted_blue
+looking for plaid_salmon
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for bright_brown
+looking for muted_black
+looking for pale_indigo
+looking for faded_red
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for shiny_yellow
+looking for muted_olive
+looking for dull_plum
+looking for wavy_gray
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for dim_tomato
+looking for drab_chartreuse
+looking for muted_maroon
+looking for posh_green
+looking for dark_crimson
+----------
+looking for posh_turquoise
+looking for drab_green
+looking for vibrant_black
+looking for posh_silver
+----------
+looking for posh_blue
+looking for shiny_bronze
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for wavy_green
+looking for pale_bronze
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for posh_violet
+looking for plaid_fuchsia
+looking for mirrored_bronze
+looking for light_black
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for bright_beige
+looking for faded_maroon
+looking for pale_aqua
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for dim_violet
+looking for vibrant_bronze
+looking for muted_gold
+----------
+looking for mirrored_gold
+looking for light_violet
+looking for dark_crimson
+----------
+looking for mirrored_lavender
+looking for dotted_white
+looking for light_fuchsia
+looking for faded_silver
+looking for striped_white
+----------
+looking for pale_silver
+looking for mirrored_turquoise
+looking for pale_crimson
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for shiny_lime
+looking for plaid_indigo
+looking for dull_purple
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for dim_cyan
+looking for dim_teal
+looking for bright_red
+looking for muted_turquoise
+looking for posh_green
+looking for dark_crimson
+----------
+looking for wavy_violet
+looking for plaid_beige
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for striped_brown
+looking for plaid_silver
+looking for pale_gold
+looking for vibrant_cyan
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for pale_chartreuse
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for mirrored_fuchsia
+looking for plaid_lavender
+looking for dotted_olive
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for dotted_cyan
+looking for posh_gold
+looking for wavy_purple
+looking for wavy_black
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for striped_coral
+looking for clear_red
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for striped_beige
+looking for plaid_salmon
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for plaid_lavender
+looking for dotted_olive
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for muted_crimson
+looking for shiny_purple
+looking for mirrored_tan
+looking for shiny_olive
+----------
+looking for mirrored_crimson
+looking for muted_teal
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for posh_salmon
+looking for vibrant_turquoise
+looking for dotted_tan
+looking for dark_brown
+looking for shiny_olive
+----------
+looking for vibrant_coral
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for shiny_crimson
+looking for dotted_beige
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for posh_bronze
+looking for clear_coral
+looking for muted_gold
+----------
+looking for faded_purple
+looking for plaid_white
+looking for dull_yellow
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for posh_magenta
+looking for dull_turquoise
+looking for posh_green
+looking for dark_crimson
+----------
+looking for faded_brown
+looking for mirrored_bronze
+looking for light_black
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for faded_violet
+looking for pale_white
+looking for clear_purple
+looking for wavy_yellow
+looking for plaid_turquoise
+----------
+looking for mirrored_teal
+looking for pale_crimson
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for drab_crimson
+looking for mirrored_lime
+looking for plaid_maroon
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for posh_maroon
+looking for faded_olive
+looking for dark_gray
+----------
+looking for muted_magenta
+looking for shiny_olive
+----------
+looking for muted_olive
+looking for dull_plum
+looking for wavy_gray
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for dark_tan
+looking for vibrant_teal
+looking for dark_black
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for dotted_violet
+looking for dull_cyan
+looking for plaid_cyan
+looking for dull_aqua
+----------
+looking for mirrored_turquoise
+looking for pale_crimson
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for muted_teal
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for plaid_plum
+looking for mirrored_bronze
+looking for light_black
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for posh_gray
+looking for faded_coral
+looking for light_tan
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for dotted_tomato
+looking for plaid_silver
+looking for pale_gold
+looking for vibrant_cyan
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for shiny_teal
+looking for muted_plum
+looking for vibrant_teal
+looking for dark_black
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for posh_orange
+looking for faded_aqua
+looking for bright_plum
+looking for mirrored_turquoise
+looking for pale_crimson
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for light_tan
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for pale_cyan
+looking for drab_black
+looking for dull_yellow
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for dark_olive
+looking for dark_gray
+----------
+looking for drab_olive
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for vibrant_brown
+looking for striped_bronze
+looking for vibrant_cyan
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for wavy_gray
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for pale_gray
+looking for striped_orange
+looking for striped_white
+----------
+looking for posh_crimson
+looking for clear_orange
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for vibrant_teal
+looking for dark_black
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for faded_bronze
+looking for posh_bronze
+looking for clear_coral
+looking for muted_gold
+----------
+looking for plaid_violet
+looking for plaid_indigo
+looking for dull_purple
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for muted_black
+looking for pale_indigo
+looking for faded_red
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for bright_green
+looking for vibrant_orange
+looking for striped_beige
+looking for plaid_salmon
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for wavy_chartreuse
+looking for dark_fuchsia
+looking for clear_turquoise
+----------
+looking for dotted_gray
+looking for plaid_chartreuse
+looking for dark_gray
+----------
+looking for dull_violet
+looking for wavy_gold
+looking for muted_plum
+looking for vibrant_teal
+looking for dark_black
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for bright_tomato
+----------
+looking for plaid_purple
+looking for drab_lavender
+looking for shiny_purple
+looking for mirrored_tan
+looking for shiny_olive
+----------
+looking for vibrant_chartreuse
+looking for striped_orange
+looking for striped_white
+----------
+looking for light_silver
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for dim_salmon
+looking for shiny_lime
+looking for plaid_indigo
+looking for dull_purple
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for plaid_gray
+looking for bright_coral
+looking for wavy_gray
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for dull_gold
+looking for mirrored_indigo
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for light_blue
+looking for striped_gray
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for wavy_brown
+looking for light_coral
+looking for dotted_orange
+looking for faded_fuchsia
+looking for faded_silver
+looking for striped_white
+----------
+looking for drab_black
+looking for dull_yellow
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for shiny_plum
+looking for drab_olive
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for vibrant_salmon
+looking for striped_violet
+looking for mirrored_tan
+looking for shiny_olive
+----------
+looking for dull_crimson
+looking for vibrant_blue
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for vibrant_purple
+looking for muted_turquoise
+looking for posh_green
+looking for dark_crimson
+----------
+looking for vibrant_plum
+looking for dull_teal
+looking for dull_tan
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for shiny_silver
+looking for clear_plum
+looking for faded_tomato
+looking for light_silver
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for plaid_beige
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for dull_tan
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for mirrored_coral
+looking for pale_aqua
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for dim_brown
+looking for dark_turquoise
+looking for striped_indigo
+looking for striped_black
+looking for vibrant_black
+looking for posh_silver
+----------
+looking for muted_gold
+----------
+looking for drab_lavender
+looking for shiny_purple
+looking for mirrored_tan
+looking for shiny_olive
+----------
+looking for muted_red
+looking for drab_lavender
+looking for shiny_purple
+looking for mirrored_tan
+looking for shiny_olive
+----------
+looking for dotted_lime
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for plaid_turquoise
+----------
+looking for clear_orange
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for dim_gray
+looking for posh_fuchsia
+looking for striped_crimson
+looking for pale_aqua
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for muted_tan
+looking for vibrant_turquoise
+looking for dotted_tan
+looking for dark_brown
+looking for shiny_olive
+----------
+looking for shiny_white
+looking for dim_indigo
+looking for dark_red
+looking for dim_violet
+looking for vibrant_bronze
+looking for muted_gold
+----------
+looking for pale_lavender
+looking for faded_green
+looking for posh_fuchsia
+looking for striped_crimson
+looking for pale_aqua
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for bright_plum
+looking for mirrored_turquoise
+looking for pale_crimson
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for vibrant_tan
+looking for dark_lavender
+looking for clear_purple
+looking for wavy_yellow
+looking for plaid_turquoise
+----------
+looking for wavy_olive
+looking for dull_salmon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for vibrant_yellow
+looking for striped_white
+----------
+looking for clear_maroon
+looking for faded_turquoise
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for muted_tomato
+looking for dim_aqua
+looking for dim_fuchsia
+looking for mirrored_turquoise
+looking for pale_crimson
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for striped_lavender
+looking for striped_gold
+looking for drab_olive
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for dull_chartreuse
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for dark_blue
+looking for drab_orange
+looking for striped_magenta
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for clear_coral
+looking for muted_gold
+----------
+looking for clear_black
+looking for faded_coral
+looking for light_tan
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for dotted_blue
+looking for shiny_gold
+FOUND FROM: dotted_blue
+----------
+looking for muted_turquoise
+looking for posh_green
+looking for dark_crimson
+----------
+looking for dotted_indigo
+looking for mirrored_tan
+looking for shiny_olive
+----------
+looking for dotted_olive
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for dull_yellow
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for wavy_white
+looking for pale_salmon
+looking for dark_red
+looking for dim_violet
+looking for vibrant_bronze
+looking for muted_gold
+----------
+looking for clear_beige
+looking for dull_yellow
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for light_gold
+looking for striped_magenta
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for dotted_brown
+looking for drab_blue
+looking for plaid_turquoise
+----------
+looking for posh_gold
+looking for wavy_purple
+looking for wavy_black
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for bright_yellow
+looking for dull_maroon
+looking for dotted_gold
+looking for shiny_coral
+looking for dim_orange
+looking for faded_chartreuse
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for striped_plum
+looking for striped_magenta
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for striped_turquoise
+looking for pale_magenta
+looking for drab_tomato
+looking for wavy_gray
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for dull_cyan
+looking for plaid_cyan
+looking for dull_aqua
+----------
+looking for vibrant_silver
+looking for vibrant_gray
+looking for bright_black
+looking for dark_maroon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for light_lime
+looking for plaid_crimson
+looking for mirrored_blue
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for posh_yellow
+looking for mirrored_blue
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for dull_blue
+looking for pale_chartreuse
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for faded_black
+looking for mirrored_brown
+looking for posh_bronze
+looking for clear_coral
+looking for muted_gold
+----------
+looking for bright_bronze
+looking for dim_silver
+looking for vibrant_black
+looking for posh_silver
+----------
+looking for drab_salmon
+looking for plaid_purple
+looking for drab_lavender
+looking for shiny_purple
+looking for mirrored_tan
+looking for shiny_olive
+----------
+looking for drab_maroon
+looking for shiny_gray
+looking for dull_salmon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for plaid_red
+looking for dotted_indigo
+looking for mirrored_tan
+looking for shiny_olive
+----------
+looking for posh_chartreuse
+looking for posh_silver
+----------
+looking for wavy_yellow
+looking for plaid_turquoise
+----------
+looking for vibrant_beige
+looking for pale_gray
+looking for striped_orange
+looking for striped_white
+----------
+looking for light_yellow
+looking for dim_fuchsia
+looking for mirrored_turquoise
+looking for pale_crimson
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for dim_black
+looking for wavy_beige
+looking for faded_olive
+looking for dark_gray
+----------
+looking for shiny_bronze
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for striped_bronze
+looking for vibrant_cyan
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for dim_olive
+looking for clear_fuchsia
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for muted_blue
+looking for plaid_salmon
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for pale_fuchsia
+looking for dull_teal
+looking for dull_tan
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for drab_tan
+looking for dull_fuchsia
+looking for wavy_olive
+looking for dull_salmon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for striped_white
+----------
+looking for bright_gray
+looking for dark_bronze
+looking for faded_coral
+looking for light_tan
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for pale_aqua
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for posh_tomato
+looking for bright_orange
+looking for dull_tan
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for mirrored_yellow
+looking for posh_brown
+looking for dark_plum
+looking for pale_red
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for drab_cyan
+looking for dull_silver
+looking for mirrored_tan
+looking for shiny_olive
+----------
+looking for wavy_gold
+looking for muted_plum
+looking for vibrant_teal
+looking for dark_black
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for plaid_teal
+looking for shiny_black
+looking for dull_lime
+looking for striped_magenta
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for posh_black
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for striped_silver
+looking for muted_cyan
+looking for posh_green
+looking for dark_crimson
+----------
+looking for bright_orange
+looking for dull_tan
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for clear_lime
+looking for pale_violet
+looking for muted_turquoise
+looking for posh_green
+looking for dark_crimson
+----------
+looking for vibrant_gray
+looking for bright_black
+looking for dark_maroon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for mirrored_salmon
+looking for faded_coral
+looking for light_tan
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for dim_coral
+looking for striped_white
+----------
+looking for dark_indigo
+looking for vibrant_cyan
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for dotted_bronze
+looking for drab_olive
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for dotted_plum
+looking for wavy_beige
+looking for faded_olive
+looking for dark_gray
+----------
+looking for mirrored_aqua
+looking for wavy_purple
+looking for wavy_black
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for dark_green
+looking for pale_yellow
+looking for dark_tan
+looking for vibrant_teal
+looking for dark_black
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for pale_brown
+looking for faded_olive
+looking for dark_gray
+----------
+looking for drab_gold
+looking for wavy_chartreuse
+looking for dark_fuchsia
+looking for clear_turquoise
+----------
+looking for plaid_blue
+looking for faded_fuchsia
+looking for faded_silver
+looking for striped_white
+----------
+looking for bright_lime
+looking for muted_turquoise
+looking for posh_green
+looking for dark_crimson
+----------
+looking for clear_cyan
+looking for muted_crimson
+looking for shiny_purple
+looking for mirrored_tan
+looking for shiny_olive
+----------
+looking for bright_indigo
+looking for muted_turquoise
+looking for posh_green
+looking for dark_crimson
+----------
+looking for posh_lavender
+looking for faded_tan
+looking for muted_cyan
+looking for posh_green
+looking for dark_crimson
+----------
+looking for striped_maroon
+looking for dull_magenta
+looking for plaid_chartreuse
+looking for dark_gray
+----------
+looking for light_aqua
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for shiny_coral
+looking for dim_orange
+looking for faded_chartreuse
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for vibrant_green
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for plaid_maroon
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for dull_red
+looking for shiny_fuchsia
+looking for mirrored_silver
+looking for dark_lime
+looking for clear_olive
+looking for muted_gold
+----------
+looking for light_crimson
+looking for dull_tomato
+looking for wavy_purple
+looking for wavy_black
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for pale_beige
+looking for muted_gold
+----------
+looking for dotted_lavender
+looking for muted_gold
+----------
+looking for dim_orange
+looking for faded_chartreuse
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for clear_white
+looking for posh_teal
+looking for vibrant_purple
+looking for muted_turquoise
+looking for posh_green
+looking for dark_crimson
+----------
+looking for muted_brown
+looking for light_cyan
+looking for shiny_bronze
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for striped_aqua
+looking for faded_aqua
+looking for bright_plum
+looking for mirrored_turquoise
+looking for pale_crimson
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for dotted_turquoise
+looking for shiny_white
+looking for dim_indigo
+looking for dark_red
+looking for dim_violet
+looking for vibrant_bronze
+looking for muted_gold
+----------
+looking for dim_maroon
+looking for drab_tan
+looking for dull_fuchsia
+looking for wavy_olive
+looking for dull_salmon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for drab_tomato
+looking for wavy_gray
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for striped_green
+looking for vibrant_tomato
+looking for striped_beige
+looking for plaid_salmon
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for dull_magenta
+looking for plaid_chartreuse
+looking for dark_gray
+----------
+looking for vibrant_lavender
+looking for dull_purple
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for faded_olive
+looking for dark_gray
+----------
+looking for bright_aqua
+looking for pale_crimson
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for wavy_aqua
+looking for light_gray
+looking for plaid_coral
+looking for drab_tomato
+looking for wavy_gray
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for shiny_turquoise
+looking for dotted_black
+looking for pale_bronze
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for muted_green
+looking for striped_white
+----------
+looking for faded_yellow
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for clear_fuchsia
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for bright_coral
+looking for wavy_gray
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for muted_bronze
+looking for drab_turquoise
+looking for wavy_teal
+looking for muted_gold
+----------
+looking for clear_violet
+looking for plaid_salmon
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for dark_teal
+looking for clear_teal
+looking for shiny_olive
+----------
+looking for posh_green
+looking for dark_crimson
+----------
+looking for faded_magenta
+looking for striped_silver
+looking for muted_cyan
+looking for posh_green
+looking for dark_crimson
+----------
+looking for clear_crimson
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for pale_indigo
+looking for faded_red
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for dull_brown
+looking for clear_purple
+looking for wavy_yellow
+looking for plaid_turquoise
+----------
+looking for clear_brown
+looking for mirrored_coral
+looking for pale_aqua
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for drab_aqua
+looking for vibrant_chartreuse
+looking for striped_orange
+looking for striped_white
+----------
+looking for shiny_black
+looking for dull_lime
+looking for striped_magenta
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for posh_lime
+looking for dotted_tan
+looking for dark_brown
+looking for shiny_olive
+----------
+looking for drab_plum
+looking for plaid_silver
+looking for pale_gold
+looking for vibrant_cyan
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for striped_gray
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for light_magenta
+looking for dark_brown
+looking for shiny_olive
+----------
+looking for striped_magenta
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for dark_bronze
+looking for faded_coral
+looking for light_tan
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for bright_teal
+looking for dark_tan
+looking for vibrant_teal
+looking for dark_black
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for mirrored_tomato
+looking for muted_tomato
+looking for dim_aqua
+looking for dim_fuchsia
+looking for mirrored_turquoise
+looking for pale_crimson
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for bright_white
+looking for faded_silver
+looking for striped_white
+----------
+looking for wavy_turquoise
+looking for drab_fuchsia
+looking for light_lime
+looking for plaid_crimson
+looking for mirrored_blue
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for posh_coral
+looking for shiny_gold
+FOUND FROM: posh_coral
+----------
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for vibrant_magenta
+looking for plaid_salmon
+looking for light_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for faded_cyan
+looking for faded_violet
+looking for pale_white
+looking for clear_purple
+looking for wavy_yellow
+looking for plaid_turquoise
+----------
+looking for dark_red
+looking for dim_violet
+looking for vibrant_bronze
+looking for muted_gold
+----------
+looking for faded_aqua
+looking for bright_plum
+looking for mirrored_turquoise
+looking for pale_crimson
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for wavy_blue
+looking for wavy_teal
+looking for muted_gold
+----------
+looking for striped_orange
+looking for striped_white
+----------
+looking for pale_orange
+looking for dim_green
+looking for faded_brown
+looking for mirrored_bronze
+looking for light_black
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for drab_violet
+looking for striped_gold
+looking for drab_olive
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for mirrored_lime
+looking for plaid_maroon
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for dull_black
+looking for vibrant_brown
+looking for striped_bronze
+looking for vibrant_cyan
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for clear_gray
+looking for drab_cyan
+looking for dull_silver
+looking for mirrored_tan
+looking for shiny_olive
+----------
+looking for light_maroon
+looking for plaid_fuchsia
+looking for mirrored_bronze
+looking for light_black
+looking for shiny_magenta
+looking for clear_turquoise
+----------
+looking for drab_white
+looking for shiny_gray
+looking for dull_salmon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for dim_chartreuse
+looking for wavy_blue
+looking for wavy_teal
+looking for muted_gold
+----------
+looking for dotted_black
+looking for pale_bronze
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for striped_purple
+looking for vibrant_black
+looking for posh_silver
+----------
+looking for shiny_tomato
+looking for faded_blue
+looking for striped_blue
+looking for shiny_orange
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for drab_coral
+looking for pale_beige
+looking for muted_gold
+----------
+looking for striped_cyan
+looking for dark_lime
+looking for clear_olive
+looking for muted_gold
+----------
+looking for dotted_yellow
+looking for dotted_bronze
+looking for drab_olive
+looking for dotted_fuchsia
+looking for dim_coral
+looking for striped_white
+----------
+looking for dark_maroon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for drab_chartreuse
+looking for muted_maroon
+looking for posh_green
+looking for dark_crimson
+----------
+looking for plaid_lime
+looking for dim_teal
+looking for bright_red
+looking for muted_turquoise
+looking for posh_green
+looking for dark_crimson
+----------
+looking for dim_fuchsia
+looking for mirrored_turquoise
+looking for pale_crimson
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for bright_cyan
+looking for plaid_crimson
+looking for mirrored_blue
+looking for dark_coral
+looking for dotted_chartreuse
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for striped_olive
+looking for shiny_purple
+looking for mirrored_tan
+looking for shiny_olive
+----------
+looking for dull_bronze
+looking for drab_tomato
+looking for wavy_gray
+looking for faded_lime
+looking for dark_salmon
+looking for clear_coral
+looking for muted_gold
+----------
+looking for wavy_purple
+looking for wavy_black
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for wavy_silver
+looking for plaid_tomato
+looking for shiny_gray
+looking for dull_salmon
+looking for dark_silver
+looking for clear_turquoise
+----------
+looking for plaid_magenta
+looking for faded_red
+looking for drab_gray
+looking for faded_silver
+looking for striped_white
+----------
+looking for dark_chartreuse
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for striped_teal
+looking for mirrored_fuchsia
+looking for plaid_lavender
+looking for dotted_olive
+looking for vibrant_indigo
+looking for faded_silver
+looking for striped_white
+----------
+looking for dull_green
+looking for posh_tomato
+looking for bright_orange
+looking for dull_tan
+looking for posh_purple
+looking for bright_tomato
+----------
+looking for drab_lime
+looking for shiny_blue
+looking for vibrant_coral
+looking for drab_magenta
+looking for dark_crimson
+----------
+looking for faded_green
+looking for posh_fuchsia
+looking for striped_crimson
+looking for pale_aqua
+looking for dim_red
+looking for light_violet
+looking for dark_crimson
+----------
+looking for light_violet
+looking for dark_crimson
+----------
+looking for bright_fuchsia
+looking for dull_tomato
+looking for wavy_purple
+looking for wavy_black
+looking for dotted_purple
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+looking for drab_green
+looking for vibrant_black
+looking for posh_silver
+----------
+looking for muted_salmon
+looking for clear_magenta
+looking for wavy_blue
+looking for wavy_teal
+looking for muted_gold
+----------
+looking for shiny_maroon
+looking for dim_crimson
+looking for faded_orange
+looking for light_violet
+looking for dark_crimson
+----------
+10

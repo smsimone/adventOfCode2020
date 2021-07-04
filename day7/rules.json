@@ -1,0 +1,7060 @@
+{
+  "striped_tan": [
+    {
+      "color": "light_silver",
+      "quantity": 2
+    },
+    {
+      "color": "drab_black",
+      "quantity": 1
+    },
+    {
+      "color": "clear_tan",
+      "quantity": 2
+    },
+    {
+      "color": "mirrored_tan",
+      "quantity": 2
+    }
+  ],
+  "dark_black": [
+    {
+      "color": "vibrant_indigo",
+      "quantity": 1
+    },
+    {
+      "color": "muted_gold",
+      "quantity": 5
+    },
+    {
+      "color": "bright_tomato",
+      "quantity": 4
+    },
+    {
+      "color": "dull_tan",
+      "quantity": 3
+    }
+  ],
+  "dim_silver": [
+    {
+      "color": "vibrant_black",
+      "quantity": 1
+    },
+    {
+      "color": "muted_cyan",
+      "quantity": 3
+    },
+    {
+      "color": "plaid_turquoise",
+      "quantity": 4
+    },
+    {
+      "color": "faded_orange",
+      "quantity": 4
+    }
+  ],
+  "faded_maroon": [
+    {
+      "color": "pale_aqua",
+      "quantity": 3
+    }
+  ],
+  "dim_crimson": [
+    {
+      "color": "faded_orange",
+      "quantity": 1
+    },
+    {
+      "color": "plaid_silver",
+      "quantity": 2
+    }
+  ],
+  "plaid_indigo": [
+    {
+      "color": "dull_purple",
+      "quantity": 1
+    },
+    {
+      "color": "plaid_cyan",
+      "quantity": 2
+    },
+    {
+      "color": "mirrored_gold",
+      "quantity": 4
+    },
+    {
+      "color": "striped_magenta",
+      "quantity": 3
+    }
+  ],
+  "mirrored_brown": [
+    {
+      "color": "posh_bronze",
+      "quantity": 4
+    },
+    {
+      "color": "dark_brown",
+      "quantity": 3
+    },
+    {
+      "color": "shiny_violet",
+      "quantity": 5
+    }
+  ],
+  "faded_gray": [
+    {
+      "color": "drab_beige",
+      "quantity": 3
+    },
+    {
+      "color": "vibrant_olive",
+      "quantity": 5
+    },
+    {
+      "color": "muted_cyan",
+      "quantity": 3
+    }
+  ],
+  "bright_salmon": [
+    {
+      "color": "striped_white",
+      "quantity": 2
+    },
+    {
+      "color": "bright_plum",
+      "quantity": 5
+    }
+  ],
+  "plaid_brown": [
+    {
+      "color": "mirrored_violet",
+      "quantity": 1
+    },
+    {
+      "color": "dark_turquoise",
+      "quantity": 1
+    },
+    {
+      "color": "dark_gold",
+      "quantity": 5
+    }
+  ],
+  "vibrant_lime": [
+    {
+      "color": "posh_yellow",
+      "quantity": 3
+    },
+    {
+      "color": "dim_aqua",
+      "quantity": 5
+    },
+    {
+      "color": "plaid_coral",
+      "quantity": 1
+    }
+  ],
+  "pale_gold": [
+    {
+      "color": "vibrant_cyan",
+      "quantity": 5
+    },
+    {
+      "color": "faded_red",
+      "quantity": 2
+    },
+    {
+      "color": "mirrored_prple",
+      "quantity": 2
+    }
+  ],
+  "dotted_orange": [
+    {
+      "color": "faded_fuchsia",
+      "quantity": 5
+    },
+    {
+      "color": "light_indigo",
+      "quantity": 1
+    }
+  ],
+  "mirrored_chartreuse": [
+    {
+      "color": "bright_black",
+      "quantity": 3
+    }
+  ],
+  "drab_blue": [
+    {
+      "color": "plaid_turquoise",
+      "quantity": 1
+    },
+    {
+      "color": "dim_red",
+      "quantity": 3
+    },
+    {
+      "color": "dim_lime",
+      "quantity": 5
+    },
+    {
+      "color": "dark_maroon",
+      "quantity": 3
+    }
+  ],
+  "dark_violet": [
+    {
+      "color": "plaid_lavender",
+      "quantity": 5
+    },
+    {
+      "color": "dark_salmon",
+      "quantity": 1
+    },
+    {
+      "color": "muted_yellow",
+      "quantity": 1
+    },
+    {
+      "color": "drab_beige",
+      "quantity": 3
+    }
+  ],
+  "pale_salmon": [
+    {
+      "color": "dark_red",
+      "quantity": 3
+    },
+    {
+      "color": "clear_violet",
+      "quantity": 4
+    },
+    {
+      "color": "dark_blue",
+      "quantity": 4
+    },
+    {
+      "color": "pale_olive",
+      "quantity": 2
+    }
+  ],
+  "wavy_fuchsia": [
+    {
+      "color": "striped_plum",
+      "quantity": 3
+    },
+    {
+      "color": "light_violet",
+      "quantity": 2
+    },
+    {
+      "color": "dotted_yellow",
+      "quantity": 3
+    }
+  ],
+  "shiny_gray": [
+    {
+      "color": "dull_salmon",
+      "quantity": 4
+    },
+    {
+      "color": "dotted_brown",
+      "quantity": 2
+    },
+    {
+      "color": "bright_tomato",
+      "quantity": 3
+    }
+  ],
+  "dark_plum": [
+    {
+      "color": "pale_red",
+      "quantity": 3
+    },
+    {
+      "color": "striped_gold",
+      "quantity": 3
+    },
+    {
+      "color": "posh_bronze",
+      "quantity": 3
+    },
+    {
+      "color": "drab_tomato",
+      "quantity": 5
+    }
+  ],
+  "mirrored_green": [
+    {
+      "color": "faded_red",
+      "quantity": 5
+    },
+    {
+      "color": "posh_fuchsia",
+      "quantity": 2
+    },
+    {
+      "color": "dim_green",
+      "quantity": 2
+    },
+    {
+      "color": "posh_green",
+      "quantity": 2
+    }
+  ],
+  "drab_brown": [
+    {
+      "color": "light_violet",
+      "quantity": 4
+    },
+    {
+      "color": "mirrored_salmon",
+      "quantity": 2
+    }
+  ],
+  "shiny_magenta": [
+    {
+      "color": "clear_turquoise",
+      "quantity": 4
+    },
+    {
+      "color": "posh_silver",
+      "quantity": 2
+    }
+  ],
+  "clear_olive": [
+    {
+      "color": "muted_gold",
+      "quantity": 5
+    },
+    {
+      "color": "bright_orange",
+      "quantity": 1
+    },
+    {
+      "color": "clear_turquoise",
+      "quantity": 2
+    }
+  ],
+  "dim_blue": [
+    {
+      "color": "pale_red",
+      "quantity": 2
+    }
+  ],
+  "drab_indigo": [
+    {
+      "color": "clear_fuchsia",
+      "quantity": 4
+    },
+    {
+      "color": "plaid_orange",
+      "quantity": 3
+    }
+  ],
+  "dull_tomato": [
+    {
+      "color": "wavy_purple",
+      "quantity": 2
+    },
+    {
+      "color": "faded_brown",
+      "quantity": 2
+    },
+    {
+      "color": "plaid_indigo",
+      "quantity": 4
+    },
+    {
+      "color": "faded_silver",
+      "quantity": 3
+    }
+  ],
+  "light_salmon": [
+    {
+      "color": "clear_crimson",
+      "quantity": 4
+    },
+    {
+      "color": "clear_gold",
+      "quantity": 3
+    }
+  ],
+  "light_green": [
+    {
+      "color": "dull_olive",
+      "quantity": 1
+    },
+    {
+      "color": "pale_gold",
+      "quantity": 2
+    }
+  ],
+  "muted_coral": [
+    {
+      "color": "pale_indigo",
+      "quantity": 4
+    },
+    {
+      "color": "dark_lime",
+      "quantity": 1
+    }
+  ],
+  "plaid_chartreuse": [
+    {
+      "color": "dark_gray",
+      "quantity": 4
+    },
+    {
+      "color": "clear_tomato",
+      "quantity": 5
+    },
+    {
+      "color": "dotted_brown",
+      "quantity": 3
+    },
+    {
+      "color": "mirrored_olive",
+      "quantity": 1
+    }
+  ],
+  "dull_plum": [
+    {
+      "color": "wavy_gray",
+      "quantity": 1
+    },
+    {
+      "color": "wavy_indigo",
+      "quantity": 4
+    },
+    {
+      "color": "dark_black",
+      "quantity": 4
+    }
+  ],
+  "plaid_crimson": [
+    {
+      "color": "mirrored_blue",
+      "quantity": 3
+    },
+    {
+      "color": "dull_turquoise",
+      "quantity": 2
+    },
+    {
+      "color": "dotted_bronze",
+      "quantity": 1
+    },
+    {
+      "color": "clear_coral",
+      "quantity": 4
+    }
+  ],
+  "light_tomato": [
+    {
+      "color": "mirrored_chartreuse",
+      "quantity": 3
+    },
+    {
+      "color": "faded_bronze",
+      "quantity": 4
+    },
+    {
+      "color": "bright_tomato",
+      "quantity": 1
+    },
+    {
+      "color": "muted_bronze",
+      "quantity": 2
+    }
+  ],
+  "muted_fuchsia": [
+    {
+      "color": "plaid_turquoise",
+      "quantity": 4
+    },
+    {
+      "color": "light_cyan",
+      "quantity": 5
+    }
+  ],
+  "wavy_salmon": [
+    {
+      "color": "dim_red",
+      "quantity": 3
+    },
+    {
+      "color": "muted_crimson",
+      "quantity": 2
+    },
+    {
+      "color": "dotted_purple",
+      "quantity": 1
+    }
+  ],
+  "dim_turquoise": [
+    {
+      "color": "dull_salmon",
+      "quantity": 5
+    },
+    {
+      "color": "pale_crimson",
+      "quantity": 4
+    }
+  ],
+  "striped_red": [
+    {
+      "color": "clear_turquoise",
+      "quantity": 2
+    },
+    {
+      "color": "muted_orange",
+      "quantity": 5
+    },
+    {
+      "color": "mirrored_coral",
+      "quantity": 4
+    },
+    {
+      "color": "dim_aqua",
+      "quantity": 1
+    }
+  ],
+  "light_purple": [
+    {
+      "color": "clear_chartreuse",
+      "quantity": 1
+    },
+    {
+      "color": "dull_cyan",
+      "quantity": 3
+    },
+    {
+      "color": "light_fuchsia",
+      "quantity": 5
+    }
+  ],
+  "pale_purple": [
+    {
+      "color": "plaid_fuchsia",
+      "quantity": 3
+    },
+    {
+      "color": "posh_cyan",
+      "quantity": 2
+    }
+  ],
+  "mirrored_violet": [
+    {
+      "color": "dark_silver",
+      "quantity": 1
+    },
+    {
+      "color": "faded_silver",
+      "quantity": 2
+    },
+    {
+      "color": "posh_gray",
+      "quantity": 4
+    },
+    {
+      "color": "vibrant_crimson",
+      "quantity": 2
+    }
+  ],
+  "mirrored_olive": [
+    {
+      "color": "posh_fuchsia",
+      "quantity": 1
+    },
+    {
+      "color": "dim_turquoise",
+      "quantity": 5
+    },
+    {
+      "color": "dark_red",
+      "quantity": 5
+    },
+    {
+      "color": "shiny_magenta",
+      "quantity": 5
+    }
+  ],
+  "shiny_aqua": [
+    {
+      "color": "vibrant_olive",
+      "quantity": 3
+    }
+  ],
+  "bright_crimson": [
+    {
+      "color": "muted_cyan",
+      "quantity": 4
+    },
+    {
+      "color": "dim_red",
+      "quantity": 4
+    },
+    {
+      "color": "dotted_chartreuse",
+      "quantity": 1
+    }
+  ],
+  "light_gray": [
+    {
+      "color": "plaid_coral",
+      "quantity": 5
+    }
+  ],
+  "faded_chartreuse": [
+    {
+      "color": "dark_coral",
+      "quantity": 4
+    },
+    {
+      "color": "muted_beige",
+      "quantity": 1
+    },
+    {
+      "color": "vibrant_purple",
+      "quantity": 4
+    }
+  ],
+  "clear_gold": [
+    {
+      "color": "plaid_coral",
+      "quantity": 2
+    },
+    {
+      "color": "light_chartreuse",
+      "quantity": 5
+    },
+    {
+      "color": "posh_olive",
+      "quantity": 2
+    },
+    {
+      "color": "mirrored_bronze",
+      "quantity": 2
+    }
+  ],
+  "faded_tomato": [
+    {
+      "color": "light_silver",
+      "quantity": 2
+    },
+    {
+      "color": "striped_yellow",
+      "quantity": 4
+    },
+    {
+      "color": "light_indigo",
+      "quantity": 1
+    }
+  ],
+  "wavy_crimson": [
+    {
+      "color": "dotted_beige",
+      "quantity": 4
+    },
+    {
+      "color": "light_violet",
+      "quantity": 5
+    }
+  ],
+  "plaid_aqua": [
+    {
+      "color": "dark_aqua",
+      "quantity": 5
+    },
+    {
+      "color": "vibrant_gold",
+      "quantity": 3
+    },
+    {
+      "color": "bright_orange",
+      "quantity": 5
+    }
+  ],
+  "drab_yellow": [
+    {
+      "color": "muted_bronze",
+      "quantity": 1
+    },
+    {
+      "color": "muted_blue",
+      "quantity": 4
+    }
+  ],
+  "dim_yellow": [
+    {
+      "color": "wavy_olive",
+      "quantity": 3
+    },
+    {
+      "color": "bright_blue",
+      "quantity": 5
+    },
+    {
+      "color": "faded_orange",
+      "quantity": 3
+    }
+  ],
+  "dotted_teal": [
+    {
+      "color": "posh_tomato",
+      "quantity": 1
+    },
+    {
+      "color": "drab_green",
+      "quantity": 4
+    },
+    {
+      "color": "light_plum",
+      "quantity": 3
+    },
+    {
+      "color": "light_green",
+      "quantity": 1
+    }
+  ],
+  "plaid_gold": [
+    {
+      "color": "faded_beige",
+      "quantity": 2
+    },
+    {
+      "color": "clear_teal",
+      "quantity": 5
+    },
+    {
+      "color": "pale_coral",
+      "quantity": 2
+    },
+    {
+      "color": "dull_gold",
+      "quantity": 3
+    }
+  ],
+  "faded_indigo": [
+    {
+      "color": "muted_yellow",
+      "quantity": 1
+    },
+    {
+      "color": "faded_brown",
+      "quantity": 5
+    }
+  ],
+  "dull_coral": [
+    {
+      "color": "dotted_tan",
+      "quantity": 1
+    },
+    {
+      "color": "dull_olive",
+      "quantity": 5
+    },
+    {
+      "color": "shiny_red",
+      "quantity": 4
+    }
+  ],
+  "wavy_tomato": [
+    {
+      "color": "dull_purple",
+      "quantity": 3
+    }
+  ],
+  "pale_plum": [
+    {
+      "color": "mirrored_fuchsia",
+      "quantity": 2
+    },
+    {
+      "color": "muted_olive",
+      "quantity": 4
+    },
+    {
+      "color": "bright_purple",
+      "quantity": 2
+    }
+  ],
+  "bright_red": [
+    {
+      "color": "muted_turquoise",
+      "quantity": 2
+    },
+    {
+      "color": "dark_crimson",
+      "quantity": 2
+    },
+    {
+      "color": "dotted_purple",
+      "quantity": 5
+    },
+    {
+      "color": "muted_beige",
+      "quantity": 1
+    }
+  ],
+  "vibrant_maroon": [
+    {
+      "color": "bright_indigo",
+      "quantity": 4
+    },
+    {
+      "color": "mirrored_turquoise",
+      "quantity": 3
+    },
+    {
+      "color": "dull_plum",
+      "quantity": 1
+    },
+    {
+      "color": "dark_yellow",
+      "quantity": 1
+    }
+  ],
+  "dull_gray": [
+    {
+      "color": "dark_chartreuse",
+      "quantity": 1
+    },
+    {
+      "color": "light_orange",
+      "quantity": 1
+    }
+  ],
+  "plaid_silver": [
+    {
+      "color": "pale_gold",
+      "quantity": 2
+    },
+    {
+      "color": "dotted_purple",
+      "quantity": 5
+    }
+  ],
+  "shiny_violet": [
+    {
+      "color": "pale_crimson",
+      "quantity": 3
+    }
+  ],
+  "shiny_fuchsia": [
+    {
+      "color": "mirrored_silver",
+      "quantity": 1
+    },
+    {
+      "color": "vibrant_olive",
+      "quantity": 4
+    }
+  ],
+  "drab_bronze": [
+    {
+      "color": "wavy_beige",
+      "quantity": 5
+    },
+    {
+      "color": "dim_chartreuse",
+      "quantity": 5
+    }
+  ],
+  "dotted_crimson": [
+    {
+      "color": "wavy_black",
+      "quantity": 1
+    },
+    {
+      "color": "muted_teal",
+      "quantity": 2
+    },
+    {
+      "color": "plaid_cyan",
+      "quantity": 1
+    },
+    {
+      "color": "bright_orange",
+      "quantity": 5
+    }
+  ],
+  "dim_beige": [
+    {
+      "color": "clear_orange",
+      "quantity": 5
+    },
+    {
+      "color": "dim_violet",
+      "quantity": 1
+    }
+  ],
+  "posh_red": [
+    {
+      "color": "faded_indigo",
+      "quantity": 4
+    },
+    {
+      "color": "dim_coral",
+      "quantity": 4
+    },
+    {
+      "color": "striped_beige",
+      "quantity": 1
+    },
+    {
+      "color": "dark_lime",
+      "quantity": 3
+    }
+  ],
+  "dim_teal": [
+    {
+      "color": "bright_red",
+      "quantity": 2
+    },
+    {
+      "color": "dull_salmon",
+      "quantity": 5
+    }
+  ],
+  "drab_magenta": [
+    {
+      "color": "dark_crimson",
+      "quantity": 3
+    },
+    {
+      "color": "muted_gold",
+      "quantity": 1
+    },
+    {
+      "color": "posh_silver",
+      "quantity": 3
+    },
+    {
+      "color": "dull_aqua",
+      "quantity": 2
+    }
+  ],
+  "posh_aqua": [
+    {
+      "color": "clear_crimson",
+      "quantity": 5
+    },
+    {
+      "color": "dim_turquoise",
+      "quantity": 5
+    },
+    {
+      "color": "clear_coral",
+      "quantity": 1
+    }
+  ],
+  "mirrored_tan": [
+    {
+      "color": "shiny_olive",
+      "quantity": 5
+    },
+    {
+      "color": "light_violet",
+      "quantity": 1
+    },
+    {
+      "color": "muted_gold",
+      "quantity": 4
+    }
+  ],
+  "bright_chartreuse": [
+    {
+      "color": "plaid_brown",
+      "quantity": 2
+    }
+  ],
+  "drab_purple": [
+    {
+      "color": "wavy_tan",
+      "quantity": 5
+    },
+    {
+      "color": "vibrant_fuchsia",
+      "quantity": 5
+    },
+    {
+      "color": "pale_brown",
+      "quantity": 3
+    }
+  ],
+  "faded_coral": [
+    {
+      "color": "light_tan",
+      "quantity": 5
+    },
+    {
+      "color": "clear_crimson",
+      "quantity": 2
+    },
+    {
+      "color": "dark_gray",
+      "quantity": 1
+    }
+  ],
+  "posh_indigo": [
+    {
+      "color": "plaid_silver",
+      "quantity": 3
+    }
+  ],
+  "plaid_green": [
+    {
+      "color": "vibrant_teal",
+      "quantity": 5
+    },
+    {
+      "color": "mirrored_gold",
+      "quantity": 4
+    },
+    {
+      "color": "striped_silver",
+      "quantity": 2
+    }
+  ],
+  "clear_tan": [
+    {
+      "color": "striped_magenta",
+      "quantity": 5
+    },
+    {
+      "color": "faded_chartreuse",
+      "quantity": 4
+    },
+    {
+      "color": "dotted_purple",
+      "quantity": 1
+    }
+  ],
+  "posh_white": [
+    {
+      "color": "bright_black",
+      "quantity": 3
+    }
+  ],
+  "dotted_maroon": [
+    {
+      "color": "clear_teal",
+      "quantity": 4
+    },
+    {
+      "color": "wavy_fuchsia",
+      "quantity": 1
+    },
+    {
+      "color": "posh_turquoise",
+      "quantity": 1
+    }
+  ],
+  "dark_magenta": [
+    {
+      "color": "vibrant_violet",
+      "quantity": 1
+    }
+  ],
+  "shiny_indigo": [
+    {
+      "color": "dull_lime",
+      "quantity": 4
+    },
+    {
+      "color": "vibrant_turquoise",
+      "quantity": 1
+    },
+    {
+      "color": "light_gray",
+      "quantity": 1
+    }
+  ],
+  "light_fuchsia": [
+    {
+      "color": "faded_silver",
+      "quantity": 4
+    },
+    {
+      "color": "mirrored_indigo",
+      "quantity": 1
+    }
+  ],
+  "light_plum": [
+    {
+      "color": "clear_crimson",
+      "quantity": 5
+    },
+    {
+      "color": "posh_bronze",
+      "quantity": 1
+    }
+  ],
+  "dark_purple": [
+    {
+      "color": "clear_indigo",
+      "quantity": 4
+    },
+    {
+      "color": "bright_tomato",
+      "quantity": 4
+    },
+    {
+      "color": "faded_olive",
+      "quantity": 1
+    }
+  ],
+  "posh_plum": [
+    {
+      "color": "mirrored_black",
+      "quantity": 4
+    },
+    {
+      "color": "plaid_silver",
+      "quantity": 5
+    }
+  ],
+  "wavy_bronze": [
+    {
+      "color": "faded_magenta",
+      "quantity": 4
+    },
+    {
+      "color": "dotted_chartreuse",
+      "quantity": 4
+    },
+    {
+      "color": "striped_beige",
+      "quantity": 3
+    },
+    {
+      "color": "striped_crimson",
+      "quantity": 2
+    }
+  ],
+  "clear_teal": [
+    {
+      "color": "shiny_olive",
+      "quantity": 2
+    }
+  ],
+  "plaid_coral": [
+    {
+      "color": "drab_tomato",
+      "quantity": 4
+    },
+    {
+      "color": "striped_gold",
+      "quantity": 3
+    },
+    {
+      "color": "dotted_lime",
+      "quantity": 1
+    }
+  ],
+  "bright_violet": [
+    {
+      "color": "muted_olive",
+      "quantity": 3
+    },
+    {
+      "color": "plaid_orange",
+      "quantity": 5
+    }
+  ],
+  "vibrant_white": [
+    {
+      "color": "light_brown",
+      "quantity": 5
+    },
+    {
+      "color": "pale_olive",
+      "quantity": 2
+    },
+    {
+      "color": "vibrant_violet",
+      "quantity": 5
+    }
+  ],
+  "shiny_blue": [
+    {
+      "color": "vibrant_coral",
+      "quantity": 1
+    }
+  ],
+  "pale_yellow": [
+    {
+      "color": "dark_tan",
+      "quantity": 2
+    }
+  ],
+  "wavy_cyan": [
+    {
+      "color": "faded_brown",
+      "quantity": 2
+    },
+    {
+      "color": "dotted_tomato",
+      "quantity": 3
+    },
+    {
+      "color": "drab_cyan",
+      "quantity": 2
+    }
+  ],
+  "dim_aqua": [
+    {
+      "color": "dim_fuchsia",
+      "quantity": 4
+    },
+    {
+      "color": "dark_red",
+      "quantity": 1
+    }
+  ],
+  "mirrored_indigo": [
+    {
+      "color": "dotted_purple",
+      "quantity": 1
+    },
+    {
+      "color": "dim_violet",
+      "quantity": 1
+    },
+    {
+      "color": "dark_silver",
+      "quantity": 5
+    },
+    {
+      "color": "mirrored_blue",
+      "quantity": 2
+    }
+  ],
+  "faded_red": [
+    {
+      "color": "drab_gray",
+      "quantity": 3
+    },
+    {
+      "color": "shiny_magenta",
+      "quantity": 2
+    },
+    {
+      "color": "faded_silver",
+      "quantity": 4
+    },
+    {
+      "color": "dull_tan",
+      "quantity": 2
+    }
+  ],
+  "clear_silver": [
+    {
+      "color": "shiny_gray",
+      "quantity": 5
+    },
+    {
+      "color": "light_violet",
+      "quantity": 4
+    }
+  ],
+  "striped_yellow": [
+    {
+      "color": "plaid_turquoise",
+      "quantity": 4
+    },
+    {
+      "color": "vibrant_green",
+      "quantity": 2
+    },
+    {
+      "color": "posh_bronze",
+      "quantity": 4
+    },
+    {
+      "color": "dark_crimson",
+      "quantity": 2
+    }
+  ],
+  "light_orange": [
+    {
+      "color": "bright_blue",
+      "quantity": 4
+    }
+  ],
+  "drab_fuchsia": [
+    {
+      "color": "light_lime",
+      "quantity": 3
+    },
+    {
+      "color": "dull_maroon",
+      "quantity": 1
+    }
+  ],
+  "vibrant_indigo": [
+    {
+      "color": "faded_silver",
+      "quantity": 5
+    },
+    {
+      "color": "striped_white",
+      "quantity": 2
+    },
+    {
+      "color": "shiny_magenta",
+      "quantity": 5
+    }
+  ],
+  "pale_black": [
+    {
+      "color": "dull_aqua",
+      "quantity": 1
+    },
+    {
+      "color": "striped_gold",
+      "quantity": 1
+    }
+  ],
+  "clear_lavender": [
+    {
+      "color": "posh_bronze",
+      "quantity": 4
+    }
+  ],
+  "bright_tan": [
+    {
+      "color": "posh_bronze",
+      "quantity": 5
+    },
+    {
+      "color": "faded_coral",
+      "quantity": 2
+    },
+    {
+      "color": "bright_tomato",
+      "quantity": 2
+    },
+    {
+      "color": "posh_fuchsia",
+      "quantity": 3
+    }
+  ],
+  "vibrant_blue": [
+    {
+      "color": "drab_magenta",
+      "quantity": 2
+    }
+  ],
+  "drab_red": [
+    {
+      "color": "bright_purple",
+      "quantity": 5
+    },
+    {
+      "color": "mirrored_fuchsia",
+      "quantity": 1
+    },
+    {
+      "color": "plaid_salmon",
+      "quantity": 1
+    }
+  ],
+  "faded_lime": [
+    {
+      "color": "dark_salmon",
+      "quantity": 3
+    },
+    {
+      "color": "drab_gray",
+      "quantity": 2
+    },
+    {
+      "color": "vibrant_cyan",
+      "quantity": 1
+    }
+  ],
+  "faded_teal": [
+    {
+      "color": "faded_bronze",
+      "quantity": 1
+    },
+    {
+      "color": "bright_blue",
+      "quantity": 3
+    },
+    {
+      "color": "dull_salmon",
+      "quantity": 4
+    },
+    {
+      "color": "dull_white",
+      "quantity": 4
+    }
+  ],
+  "dark_yellow": [
+    {
+      "color": "posh_chartreuse",
+      "quantity": 5
+    }
+  ],
+  "dull_white": [
+    {
+      "color": "light_green",
+      "quantity": 3
+    },
+    {
+      "color": "drab_gray",
+      "quantity": 3
+    },
+    {
+      "color": "mirrored_tan",
+      "quantity": 2
+    },
+    {
+      "color": "bright_black",
+      "quantity": 2
+    }
+  ],
+  "clear_yellow": [
+    {
+      "color": "clear_beige",
+      "quantity": 4
+    },
+    {
+      "color": "faded_blue",
+      "quantity": 1
+    }
+  ],
+  "light_coral": [
+    {
+      "color": "dotted_orange",
+      "quantity": 5
+    },
+    {
+      "color": "vibrant_plum",
+      "quantity": 2
+    },
+    {
+      "color": "wavy_purple",
+      "quantity": 2
+    }
+  ],
+  "faded_orange": [
+    {
+      "color": "light_violet",
+      "quantity": 1
+    },
+    {
+      "color": "faded_olive",
+      "quantity": 2
+    },
+    {
+      "color": "posh_silver",
+      "quantity": 5
+    }
+  ],
+  "bright_olive": [
+    {
+      "color": "clear_purple",
+      "quantity": 1
+    }
+  ],
+  "shiny_beige": [
+    {
+      "color": "pale_silver",
+      "quantity": 5
+    },
+    {
+      "color": "drab_orange",
+      "quantity": 3
+    }
+  ],
+  "dark_aqua": [
+    {
+      "color": "drab_gray",
+      "quantity": 3
+    },
+    {
+      "color": "shiny_plum",
+      "quantity": 5
+    },
+    {
+      "color": "dull_purple",
+      "quantity": 5
+    }
+  ],
+  "pale_green": [
+    {
+      "color": "clear_olive",
+      "quantity": 4
+    },
+    {
+      "color": "drab_crimson",
+      "quantity": 5
+    },
+    {
+      "color": "dim_silver",
+      "quantity": 2
+    },
+    {
+      "color": "striped_fuchsia",
+      "quantity": 1
+    }
+  ],
+  "muted_violet": [
+    {
+      "color": "faded_plum",
+      "quantity": 4
+    },
+    {
+      "color": "bright_beige",
+      "quantity": 3
+    }
+  ],
+  "shiny_brown": [
+    {
+      "color": "dull_tomato",
+      "quantity": 4
+    }
+  ],
+  "light_cyan": [
+    {
+      "color": "shiny_bronze",
+      "quantity": 4
+    },
+    {
+      "color": "faded_beige",
+      "quantity": 5
+    },
+    {
+      "color": "shiny_plum",
+      "quantity": 2
+    },
+    {
+      "color": "mirrored_purple",
+      "quantity": 4
+    }
+  ],
+  "plaid_yellow": [
+    {
+      "color": "vibrant_bronze",
+      "quantity": 1
+    },
+    {
+      "color": "light_black",
+      "quantity": 5
+    },
+    {
+      "color": "plaid_coral",
+      "quantity": 1
+    },
+    {
+      "color": "drab_tan",
+      "quantity": 4
+    }
+  ],
+  "light_chartreuse": [
+    {
+      "color": "drab_magenta",
+      "quantity": 3
+    },
+    {
+      "color": "mirrored_coral",
+      "quantity": 5
+    }
+  ],
+  "shiny_orange": [
+    {
+      "color": "drab_gray",
+      "quantity": 1
+    },
+    {
+      "color": "bright_tomato",
+      "quantity": 4
+    }
+  ],
+  "mirrored_blue": [
+    {
+      "color": "dark_coral",
+      "quantity": 1
+    },
+    {
+      "color": "vibrant_purple",
+      "quantity": 3
+    },
+    {
+      "color": "mirrored_turquoise",
+      "quantity": 1
+    }
+  ],
+  "clear_green": [
+    {
+      "color": "wavy_orange",
+      "quantity": 4
+    },
+    {
+      "color": "muted_black",
+      "quantity": 5
+    },
+    {
+      "color": "striped_gray",
+      "quantity": 5
+    }
+  ],
+  "bright_silver": [
+    {
+      "color": "plaid_aqua",
+      "quantity": 2
+    },
+    {
+      "color": "bright_blue",
+      "quantity": 1
+    }
+  ],
+  "clear_blue": [
+    {
+      "color": "dotted_tan",
+      "quantity": 5
+    }
+  ],
+  "posh_silver": [],
+  "light_lavender": [
+    {
+      "color": "dark_gray",
+      "quantity": 5
+    },
+    {
+      "color": "clear_tomato",
+      "quantity": 2
+    },
+    {
+      "color": "muted_cyan",
+      "quantity": 5
+    },
+    {
+      "color": "pale_cyan",
+      "quantity": 4
+    }
+  ],
+  "dull_salmon": [
+    {
+      "color": "dark_silver",
+      "quantity": 4
+    },
+    {
+      "color": "mirrored_coral",
+      "quantity": 5
+    },
+    {
+      "color": "bright_red",
+      "quantity": 4
+    }
+  ],
+  "clear_purple": [
+    {
+      "color": "wavy_yellow",
+      "quantity": 5
+    },
+    {
+      "color": "striped_orange",
+      "quantity": 2
+    }
+  ],
+  "dark_lavender": [
+    {
+      "color": "clear_purple",
+      "quantity": 3
+    },
+    {
+      "color": "vibrant_cyan",
+      "quantity": 4
+    }
+  ],
+  "dotted_white": [
+    {
+      "color": "light_fuchsia",
+      "quantity": 4
+    }
+  ],
+  "mirrored_cyan": [
+    {
+      "color": "dotted_plum",
+      "quantity": 4
+    },
+    {
+      "color": "posh_salmon",
+      "quantity": 2
+    },
+    {
+      "color": "light_orange",
+      "quantity": 3
+    },
+    {
+      "color": "muted_teal",
+      "quantity": 3
+    }
+  ],
+  "shiny_cyan": [
+    {
+      "color": "dotted_blue",
+      "quantity": 1
+    },
+    {
+      "color": "striped_crimson",
+      "quantity": 4
+    }
+  ],
+  "clear_tomato": [
+    {
+      "color": "vibrant_green",
+      "quantity": 5
+    },
+    {
+      "color": "drab_lavender",
+      "quantity": 1
+    },
+    {
+      "color": "dim_coral",
+      "quantity": 1
+    }
+  ],
+  "pale_olive": [
+    {
+      "color": "faded_red",
+      "quantity": 1
+    },
+    {
+      "color": "dim_lime",
+      "quantity": 5
+    }
+  ],
+  "wavy_red": [
+    {
+      "color": "faded_orange",
+      "quantity": 4
+    },
+    {
+      "color": "dull_white",
+      "quantity": 1
+    },
+    {
+      "color": "dotted_chartreuse",
+      "quantity": 1
+    }
+  ],
+  "pale_violet": [
+    {
+      "color": "muted_turquoise",
+      "quantity": 4
+    },
+    {
+      "color": "vibrant_yellow",
+      "quantity": 5
+    },
+    {
+      "color": "bright_plum",
+      "quantity": 2
+    },
+    {
+      "color": "posh_plum",
+      "quantity": 4
+    }
+  ],
+  "dull_lavender": [
+    {
+      "color": "faded_turquoise",
+      "quantity": 4
+    },
+    {
+      "color": "striped_gray",
+      "quantity": 5
+    }
+  ],
+  "drab_gray": [
+    {
+      "color": "faded_silver",
+      "quantity": 5
+    },
+    {
+      "color": "plaid_turquoise",
+      "quantity": 1
+    }
+  ],
+  "vibrant_aqua": [
+    {
+      "color": "drab_brown",
+      "quantity": 2
+    }
+  ],
+  "shiny_tan": [
+    {
+      "color": "dark_red",
+      "quantity": 2
+    }
+  ],
+  "clear_turquoise": [],
+  "pale_teal": [
+    {
+      "color": "dotted_brown",
+      "quantity": 4
+    },
+    {
+      "color": "dull_lime",
+      "quantity": 1
+    },
+    {
+      "color": "dotted_purple",
+      "quantity": 5
+    }
+  ],
+  "posh_teal": [
+    {
+      "color": "vibrant_purple",
+      "quantity": 4
+    }
+  ],
+  "drab_orange": [
+    {
+      "color": "striped_magenta",
+      "quantity": 1
+    }
+  ],
+  "plaid_salmon": [
+    {
+      "color": "light_chartreuse",
+      "quantity": 3
+    },
+    {
+      "color": "dull_purple",
+      "quantity": 3
+    }
+  ],
+  "mirrored_white": [
+    {
+      "color": "light_beige",
+      "quantity": 2
+    }
+  ],
+  "mirrored_beige": [
+    {
+      "color": "dim_tan",
+      "quantity": 3
+    },
+    {
+      "color": "bright_salmon",
+      "quantity": 5
+    },
+    {
+      "color": "pale_tan",
+      "quantity": 5
+    }
+  ],
+  "mirrored_maroon": [
+    {
+      "color": "dotted_salmon",
+      "quantity": 1
+    },
+    {
+      "color": "vibrant_yellow",
+      "quantity": 1
+    },
+    {
+      "color": "bright_cyan",
+      "quantity": 4
+    },
+    {
+      "color": "clear_blue",
+      "quantity": 1
+    }
+  ],
+  "dim_lime": [
+    {
+      "color": "light_violet",
+      "quantity": 5
+    },
+    {
+      "color": "drab_gray",
+      "quantity": 4
+    }
+  ],
+  "pale_bronze": [
+    {
+      "color": "dotted_fuchsia",
+      "quantity": 5
+    },
+    {
+      "color": "dull_tan",
+      "quantity": 1
+    },
+    {
+      "color": "faded_fuchsia",
+      "quantity": 2
+    }
+  ],
+  "vibrant_turquoise": [
+    {
+      "color": "dotted_tan",
+      "quantity": 1
+    },
+    {
+      "color": "clear_purple",
+      "quantity": 2
+    },
+    {
+      "color": "dotted_chartreuse",
+      "quantity": 5
+    }
+  ],
+  "vibrant_crimson": [
+    {
+      "color": "faded_orange",
+      "quantity": 1
+    },
+    {
+      "color": "light_chartreuse",
+      "quantity": 3
+    },
+    {
+      "color": "dotted_purple",
+      "quantity": 3
+    }
+  ],
+  "dotted_green": [
+    {
+      "color": "vibrant_lime",
+      "quantity": 2
+    },
+    {
+      "color": "dotted_bronze",
+      "quantity": 1
+    },
+    {
+      "color": "faded_chartreuse",
+      "quantity": 3
+    }
+  ],
+  "mirrored_gray": [
+    {
+      "color": "shiny_maroon",
+      "quantity": 4
+    },
+    {
+      "color": "faded_salmon",
+      "quantity": 2
+    }
+  ],
+  "muted_purple": [
+    {
+      "color": "clear_magenta",
+      "quantity": 3
+    },
+    {
+      "color": "light_green",
+      "quantity": 1
+    },
+    {
+      "color": "faded_orange",
+      "quantity": 3
+    }
+  ],
+  "wavy_maroon": [
+    {
+      "color": "muted_beige",
+      "quantity": 4
+    },
+    {
+      "color": "posh_gray",
+      "quantity": 4
+    }
+  ],
+  "clear_aqua": [
+    {
+      "color": "clear_fuchsia",
+      "quantity": 3
+    }
+  ],
+  "mirrored_red": [
+    {
+      "color": "muted_indigo",
+      "quantity": 3
+    },
+    {
+      "color": "pale_lime",
+      "quantity": 4
+    },
+    {
+      "color": "dark_silver",
+      "quantity": 1
+    },
+    {
+      "color": "mirrored_tomato",
+      "quantity": 3
+    }
+  ],
+  "vibrant_olive": [
+    {
+      "color": "shiny_gold",
+      "quantity": 2
+    },
+    {
+      "color": "mirrored_tan",
+      "quantity": 5
+    },
+    {
+      "color": "pale_olive",
+      "quantity": 2
+    }
+  ],
+  "dull_purple": [
+    {
+      "color": "dotted_purple",
+      "quantity": 5
+    },
+    {
+      "color": "dotted_fuchsia",
+      "quantity": 5
+    },
+    {
+      "color": "dark_salmon",
+      "quantity": 4
+    },
+    {
+      "color": "faded_olive",
+      "quantity": 3
+    }
+  ],
+  "muted_maroon": [
+    {
+      "color": "posh_green",
+      "quantity": 1
+    },
+    {
+      "color": "faded_bronze",
+      "quantity": 5
+    },
+    {
+      "color": "striped_gold",
+      "quantity": 4
+    }
+  ],
+  "shiny_chartreuse": [
+    {
+      "color": "bright_crimson",
+      "quantity": 3
+    },
+    {
+      "color": "dim_purple",
+      "quantity": 4
+    },
+    {
+      "color": "dark_violet",
+      "quantity": 2
+    }
+  ],
+  "pale_crimson": [
+    {
+      "color": "dark_silver",
+      "quantity": 4
+    },
+    {
+      "color": "dark_crimson",
+      "quantity": 3
+    }
+  ],
+  "vibrant_fuchsia": [
+    {
+      "color": "shiny_gold",
+      "quantity": 3
+    },
+    {
+      "color": "wavy_bronze",
+      "quantity": 1
+    },
+    {
+      "color": "wavy_purple",
+      "quantity": 4
+    },
+    {
+      "color": "dark_gray",
+      "quantity": 5
+    }
+  ],
+  "pale_white": [
+    {
+      "color": "clear_purple",
+      "quantity": 4
+    },
+    {
+      "color": "muted_turquoise",
+      "quantity": 5
+    },
+    {
+      "color": "clear_lavender",
+      "quantity": 4
+    }
+  ],
+  "faded_silver": [
+    {
+      "color": "striped_white",
+      "quantity": 1
+    }
+  ],
+  "dim_magenta": [
+    {
+      "color": "plaid_salmon",
+      "quantity": 5
+    },
+    {
+      "color": "dark_chartreuse",
+      "quantity": 3
+    }
+  ],
+  "dark_beige": [
+    {
+      "color": "bright_brown",
+      "quantity": 3
+    },
+    {
+      "color": "dull_turquoise",
+      "quantity": 4
+    },
+    {
+      "color": "muted_black",
+      "quantity": 3
+    }
+  ],
+  "wavy_beige": [
+    {
+      "color": "faded_olive",
+      "quantity": 5
+    }
+  ],
+  "dark_turquoise": [
+    {
+      "color": "striped_indigo",
+      "quantity": 4
+    },
+    {
+      "color": "pale_blue",
+      "quantity": 5
+    }
+  ],
+  "pale_tan": [
+    {
+      "color": "dim_olive",
+      "quantity": 3
+    },
+    {
+      "color": "posh_green",
+      "quantity": 4
+    }
+  ],
+  "muted_beige": [
+    {
+      "color": "pale_indigo",
+      "quantity": 2
+    },
+    {
+      "color": "bright_black",
+      "quantity": 1
+    },
+    {
+      "color": "bright_plum",
+      "quantity": 3
+    }
+  ],
+  "faded_fuchsia": [
+    {
+      "color": "faded_silver",
+      "quantity": 4
+    }
+  ],
+  "shiny_olive": [],
+  "dark_lime": [
+    {
+      "color": "clear_olive",
+      "quantity": 3
+    },
+    {
+      "color": "clear_blue",
+      "quantity": 2
+    },
+    {
+      "color": "dull_cyan",
+      "quantity": 2
+    }
+  ],
+  "dim_tan": [
+    {
+      "color": "plaid_chartreuse",
+      "quantity": 4
+    }
+  ],
+  "light_bronze": [
+    {
+      "color": "bright_aqua",
+      "quantity": 5
+    },
+    {
+      "color": "plaid_magenta",
+      "quantity": 1
+    },
+    {
+      "color": "dim_lime",
+      "quantity": 5
+    }
+  ],
+  "muted_chartreuse": [
+    {
+      "color": "faded_cyan",
+      "quantity": 5
+    },
+    {
+      "color": "posh_fuchsia",
+      "quantity": 4
+    },
+    {
+      "color": "drab_tomato",
+      "quantity": 2
+    }
+  ],
+  "bright_blue": [
+    {
+      "color": "vibrant_green",
+      "quantity": 5
+    },
+    {
+      "color": "dull_white",
+      "quantity": 5
+    },
+    {
+      "color": "bright_orange",
+      "quantity": 1
+    }
+  ],
+  "light_beige": [
+    {
+      "color": "dim_magenta",
+      "quantity": 3
+    },
+    {
+      "color": "plaid_tomato",
+      "quantity": 5
+    },
+    {
+      "color": "wavy_black",
+      "quantity": 5
+    }
+  ],
+  "dull_maroon": [
+    {
+      "color": "dotted_gold",
+      "quantity": 1
+    }
+  ],
+  "bright_lavender": [
+    {
+      "color": "drab_blue",
+      "quantity": 3
+    },
+    {
+      "color": "dotted_yellow",
+      "quantity": 2
+    }
+  ],
+  "drab_teal": [
+    {
+      "color": "shiny_crimson",
+      "quantity": 5
+    }
+  ],
+  "faded_tan": [
+    {
+      "color": "muted_cyan",
+      "quantity": 2
+    }
+  ],
+  "wavy_lime": [
+    {
+      "color": "mirrored_silver",
+      "quantity": 4
+    },
+    {
+      "color": "dark_purple",
+      "quantity": 3
+    }
+  ],
+  "dull_turquoise": [
+    {
+      "color": "posh_green",
+      "quantity": 4
+    },
+    {
+      "color": "shiny_gold",
+      "quantity": 4
+    },
+    {
+      "color": "clear_blue",
+      "quantity": 5
+    }
+  ],
+  "clear_salmon": [
+    {
+      "color": "striped_blue",
+      "quantity": 4
+    },
+    {
+      "color": "faded_chartreuse",
+      "quantity": 2
+    },
+    {
+      "color": "muted_tan",
+      "quantity": 1
+    },
+    {
+      "color": "dark_coral",
+      "quantity": 4
+    }
+  ],
+  "wavy_magenta": [
+    {
+      "color": "dim_gold",
+      "quantity": 3
+    },
+    {
+      "color": "shiny_white",
+      "quantity": 5
+    },
+    {
+      "color": "striped_gold",
+      "quantity": 4
+    }
+  ],
+  "striped_crimson": [
+    {
+      "color": "pale_aqua",
+      "quantity": 3
+    },
+    {
+      "color": "pale_indigo",
+      "quantity": 3
+    },
+    {
+      "color": "pale_tan",
+      "quantity": 4
+    }
+  ],
+  "light_white": [
+    {
+      "color": "clear_fuchsia",
+      "quantity": 4
+    },
+    {
+      "color": "dark_silver",
+      "quantity": 1
+    },
+    {
+      "color": "shiny_olive",
+      "quantity": 5
+    }
+  ],
+  "bright_magenta": [
+    {
+      "color": "pale_beige",
+      "quantity": 4
+    }
+  ],
+  "posh_tan": [
+    {
+      "color": "plaid_salmon",
+      "quantity": 5
+    }
+  ],
+  "pale_tomato": [
+    {
+      "color": "posh_salmon",
+      "quantity": 1
+    }
+  ],
+  "bright_purple": [
+    {
+      "color": "mirrored_coral",
+      "quantity": 4
+    }
+  ],
+  "dark_orange": [
+    {
+      "color": "drab_olive",
+      "quantity": 5
+    },
+    {
+      "color": "faded_yellow",
+      "quantity": 4
+    }
+  ],
+  "light_olive": [
+    {
+      "color": "striped_brown",
+      "quantity": 2
+    },
+    {
+      "color": "wavy_tan",
+      "quantity": 1
+    }
+  ],
+  "clear_red": [
+    {
+      "color": "light_chartreuse",
+      "quantity": 4
+    }
+  ],
+  "wavy_coral": [
+    {
+      "color": "muted_purple",
+      "quantity": 3
+    },
+    {
+      "color": "bright_tomato",
+      "quantity": 1
+    }
+  ],
+  "dull_teal": [
+    {
+      "color": "dull_tan",
+      "quantity": 3
+    },
+    {
+      "color": "faded_silver",
+      "quantity": 5
+    },
+    {
+      "color": "striped_orange",
+      "quantity": 3
+    }
+  ],
+  "dark_crimson": [],
+  "muted_yellow": [
+    {
+      "color": "dull_teal",
+      "quantity": 1
+    },
+    {
+      "color": "drab_olive",
+      "quantity": 3
+    }
+  ],
+  "vibrant_orange": [
+    {
+      "color": "striped_beige",
+      "quantity": 2
+    }
+  ],
+  "faded_gold": [
+    {
+      "color": "wavy_magenta",
+      "quantity": 4
+    },
+    {
+      "color": "mirrored_teal",
+      "quantity": 4
+    }
+  ],
+  "clear_indigo": [
+    {
+      "color": "dark_gray",
+      "quantity": 1
+    },
+    {
+      "color": "shiny_magenta",
+      "quantity": 2
+    },
+    {
+      "color": "vibrant_olive",
+      "quantity": 1
+    }
+  ],
+  "plaid_olive": [
+    {
+      "color": "striped_lavender",
+      "quantity": 5
+    },
+    {
+      "color": "faded_orange",
+      "quantity": 5
+    }
+  ],
+  "dotted_salmon": [
+    {
+      "color": "pale_tan",
+      "quantity": 1
+    },
+    {
+      "color": "light_magenta",
+      "quantity": 5
+    }
+  ],
+  "dull_silver": [
+    {
+      "color": "mirrored_tan",
+      "quantity": 4
+    },
+    {
+      "color": "light_tan",
+      "quantity": 3
+    },
+    {
+      "color": "dark_black",
+      "quantity": 2
+    }
+  ],
+  "plaid_fuchsia": [
+    {
+      "color": "mirrored_bronze",
+      "quantity": 2
+    }
+  ],
+  "dotted_beige": [
+    {
+      "color": "faded_orange",
+      "quantity": 2
+    },
+    {
+      "color": "clear_orange",
+      "quantity": 3
+    }
+  ],
+  "dark_fuchsia": [
+    {
+      "color": "clear_turquoise",
+      "quantity": 2
+    },
+    {
+      "color": "vibrant_indigo",
+      "quantity": 1
+    },
+    {
+      "color": "wavy_blue",
+      "quantity": 5
+    },
+    {
+      "color": "dotted_brown",
+      "quantity": 3
+    }
+  ],
+  "muted_gray": [
+    {
+      "color": "faded_magenta",
+      "quantity": 4
+    },
+    {
+      "color": "mirrored_salmon",
+      "quantity": 5
+    },
+    {
+      "color": "vibrant_purple",
+      "quantity": 5
+    }
+  ],
+  "muted_aqua": [
+    {
+      "color": "vibrant_turquoise",
+      "quantity": 1
+    }
+  ],
+  "wavy_indigo": [
+    {
+      "color": "dotted_salmon",
+      "quantity": 1
+    },
+    {
+      "color": "light_violet",
+      "quantity": 4
+    }
+  ],
+  "plaid_black": [
+    {
+      "color": "faded_teal",
+      "quantity": 3
+    },
+    {
+      "color": "wavy_teal",
+      "quantity": 5
+    }
+  ],
+  "muted_plum": [
+    {
+      "color": "vibrant_teal",
+      "quantity": 4
+    },
+    {
+      "color": "pale_aqua",
+      "quantity": 4
+    },
+    {
+      "color": "light_bronze",
+      "quantity": 2
+    },
+    {
+      "color": "pale_silver",
+      "quantity": 4
+    }
+  ],
+  "striped_salmon": [
+    {
+      "color": "shiny_turquoise",
+      "quantity": 3
+    },
+    {
+      "color": "drab_tan",
+      "quantity": 5
+    },
+    {
+      "color": "clear_silver",
+      "quantity": 3
+    }
+  ],
+  "mirrored_black": [
+    {
+      "color": "dotted_chartreuse",
+      "quantity": 1
+    },
+    {
+      "color": "dull_olive",
+      "quantity": 4
+    },
+    {
+      "color": "dim_coral",
+      "quantity": 2
+    }
+  ],
+  "striped_black": [
+    {
+      "color": "vibrant_black",
+      "quantity": 1
+    },
+    {
+      "color": "faded_coral",
+      "quantity": 3
+    },
+    {
+      "color": "wavy_gray",
+      "quantity": 3
+    }
+  ],
+  "faded_beige": [
+    {
+      "color": "dim_olive",
+      "quantity": 3
+    },
+    {
+      "color": "vibrant_bronze",
+      "quantity": 5
+    },
+    {
+      "color": "mirrored_gold",
+      "quantity": 4
+    }
+  ],
+  "striped_fuchsia": [
+    {
+      "color": "dotted_yellow",
+      "quantity": 5
+    }
+  ],
+  "light_indigo": [
+    {
+      "color": "pale_gold",
+      "quantity": 2
+    },
+    {
+      "color": "light_black",
+      "quantity": 3
+    }
+  ],
+  "mirrored_silver": [
+    {
+      "color": "dark_lime",
+      "quantity": 4
+    },
+    {
+      "color": "clear_orange",
+      "quantity": 3
+    },
+    {
+      "color": "clear_lime",
+      "quantity": 3
+    }
+  ],
+  "vibrant_black": [
+    {
+      "color": "posh_silver",
+      "quantity": 3
+    },
+    {
+      "color": "dull_aqua",
+      "quantity": 2
+    },
+    {
+      "color": "dark_black",
+      "quantity": 2
+    }
+  ],
+  "vibrant_tomato": [
+    {
+      "color": "striped_beige",
+      "quantity": 5
+    },
+    {
+      "color": "posh_coral",
+      "quantity": 3
+    },
+    {
+      "color": "posh_brown",
+      "quantity": 4
+    }
+  ],
+  "clear_chartreuse": [
+    {
+      "color": "dull_bronze",
+      "quantity": 2
+    },
+    {
+      "color": "drab_turquoise",
+      "quantity": 2
+    }
+  ],
+  "dotted_coral": [
+    {
+      "color": "dull_brown",
+      "quantity": 1
+    },
+    {
+      "color": "clear_teal",
+      "quantity": 5
+    },
+    {
+      "color": "mirrored_olive",
+      "quantity": 3
+    }
+  ],
+  "drab_beige": [
+    {
+      "color": "dotted_olive",
+      "quantity": 5
+    },
+    {
+      "color": "dotted_chartreuse",
+      "quantity": 5
+    },
+    {
+      "color": "dark_coral",
+      "quantity": 4
+    },
+    {
+      "color": "wavy_yellow",
+      "quantity": 3
+    }
+  ],
+  "wavy_plum": [
+    {
+      "color": "dotted_blue",
+      "quantity": 1
+    },
+    {
+      "color": "vibrant_brown",
+      "quantity": 5
+    }
+  ],
+  "posh_brown": [
+    {
+      "color": "dark_plum",
+      "quantity": 2
+    },
+    {
+      "color": "shiny_white",
+      "quantity": 3
+    },
+    {
+      "color": "striped_plum",
+      "quantity": 2
+    },
+    {
+      "color": "dim_lavender",
+      "quantity": 3
+    }
+  ],
+  "pale_lime": [
+    {
+      "color": "posh_orange",
+      "quantity": 5
+    },
+    {
+      "color": "posh_magenta",
+      "quantity": 2
+    }
+  ],
+  "plaid_tomato": [
+    {
+      "color": "shiny_gray",
+      "quantity": 4
+    },
+    {
+      "color": "faded_olive",
+      "quantity": 2
+    }
+  ],
+  "shiny_purple": [
+    {
+      "color": "mirrored_tan",
+      "quantity": 5
+    },
+    {
+      "color": "faded_red",
+      "quantity": 3
+    },
+    {
+      "color": "clear_coral",
+      "quantity": 1
+    },
+    {
+      "color": "posh_purple",
+      "quantity": 4
+    }
+  ],
+  "vibrant_red": [
+    {
+      "color": "wavy_tomato",
+      "quantity": 3
+    },
+    {
+      "color": "mirrored_magenta",
+      "quantity": 5
+    }
+  ],
+  "dim_lavender": [
+    {
+      "color": "dim_red",
+      "quantity": 4
+    }
+  ],
+  "dull_beige": [
+    {
+      "color": "shiny_gold",
+      "quantity": 2
+    }
+  ],
+  "vibrant_cyan": [
+    {
+      "color": "shiny_magenta",
+      "quantity": 4
+    }
+  ],
+  "striped_chartreuse": [
+    {
+      "color": "dark_plum",
+      "quantity": 2
+    }
+  ],
+  "pale_magenta": [
+    {
+      "color": "drab_tomato",
+      "quantity": 2
+    },
+    {
+      "color": "striped_chartreuse",
+      "quantity": 2
+    },
+    {
+      "color": "clear_crimson",
+      "quantity": 4
+    },
+    {
+      "color": "plaid_green",
+      "quantity": 5
+    }
+  ],
+  "wavy_teal": [
+    {
+      "color": "muted_gold",
+      "quantity": 1
+    }
+  ],
+  "plaid_tan": [
+    {
+      "color": "plaid_turquoise",
+      "quantity": 2
+    },
+    {
+      "color": "pale_aqua",
+      "quantity": 5
+    }
+  ],
+  "striped_lime": [
+    {
+      "color": "light_yellow",
+      "quantity": 1
+    },
+    {
+      "color": "drab_coral",
+      "quantity": 1
+    },
+    {
+      "color": "posh_blue",
+      "quantity": 1
+    }
+  ],
+  "light_turquoise": [
+    {
+      "color": "clear_brown",
+      "quantity": 2
+    },
+    {
+      "color": "pale_fuchsia",
+      "quantity": 1
+    },
+    {
+      "color": "vibrant_teal",
+      "quantity": 1
+    },
+    {
+      "color": "dark_salmon",
+      "quantity": 3
+    }
+  ],
+  "dim_indigo": [
+    {
+      "color": "dark_red",
+      "quantity": 4
+    },
+    {
+      "color": "drab_violet",
+      "quantity": 3
+    },
+    {
+      "color": "bright_white",
+      "quantity": 5
+    }
+  ],
+  "faded_crimson": [
+    {
+      "color": "dotted_brown",
+      "quantity": 4
+    }
+  ],
+  "vibrant_gold": [
+    {
+      "color": "pale_turquoise",
+      "quantity": 2
+    },
+    {
+      "color": "vibrant_tan",
+      "quantity": 2
+    }
+  ],
+  "drab_turquoise": [
+    {
+      "color": "wavy_teal",
+      "quantity": 3
+    }
+  ],
+  "dark_silver": [
+    {
+      "color": "clear_turquoise",
+      "quantity": 3
+    },
+    {
+      "color": "posh_green",
+      "quantity": 2
+    },
+    {
+      "color": "dim_coral",
+      "quantity": 3
+    },
+    {
+      "color": "clear_coral",
+      "quantity": 1
+    }
+  ],
+  "mirrored_bronze": [
+    {
+      "color": "light_black",
+      "quantity": 3
+    },
+    {
+      "color": "dim_olive",
+      "quantity": 3
+    },
+    {
+      "color": "posh_purple",
+      "quantity": 5
+    },
+    {
+      "color": "dim_lime",
+      "quantity": 2
+    }
+  ],
+  "dim_gold": [
+    {
+      "color": "dotted_lavender",
+      "quantity": 2
+    },
+    {
+      "color": "dotted_olive",
+      "quantity": 1
+    }
+  ],
+  "dull_aqua": [],
+  "shiny_red": [
+    {
+      "color": "vibrant_magenta",
+      "quantity": 5
+    },
+    {
+      "color": "dull_silver",
+      "quantity": 2
+    }
+  ],
+  "dull_orange": [
+    {
+      "color": "drab_orange",
+      "quantity": 2
+    }
+  ],
+  "striped_violet": [
+    {
+      "color": "mirrored_tan",
+      "quantity": 4
+    },
+    {
+      "color": "clear_crimson",
+      "quantity": 5
+    },
+    {
+      "color": "dotted_lavender",
+      "quantity": 3
+    },
+    {
+      "color": "light_plum",
+      "quantity": 5
+    }
+  ],
+  "faded_blue": [
+    {
+      "color": "striped_blue",
+      "quantity": 4
+    },
+    {
+      "color": "light_silver",
+      "quantity": 1
+    },
+    {
+      "color": "drab_black",
+      "quantity": 5
+    }
+  ],
+  "dotted_aqua": [
+    {
+      "color": "plaid_fuchsia",
+      "quantity": 5
+    },
+    {
+      "color": "bright_plum",
+      "quantity": 1
+    },
+    {
+      "color": "shiny_red",
+      "quantity": 4
+    }
+  ],
+  "shiny_lavender": [
+    {
+      "color": "wavy_indigo",
+      "quantity": 5
+    },
+    {
+      "color": "wavy_beige",
+      "quantity": 5
+    }
+  ],
+  "faded_salmon": [
+    {
+      "color": "shiny_red",
+      "quantity": 4
+    }
+  ],
+  "muted_orange": [
+    {
+      "color": "dim_silver",
+      "quantity": 4
+    },
+    {
+      "color": "clear_turquoise",
+      "quantity": 3
+    },
+    {
+      "color": "pale_red",
+      "quantity": 4
+    },
+    {
+      "color": "pale_olive",
+      "quantity": 2
+    }
+  ],
+  "drab_silver": [
+    {
+      "color": "vibrant_yellow",
+      "quantity": 1
+    },
+    {
+      "color": "pale_tomato",
+      "quantity": 3
+    },
+    {
+      "color": "dull_silver",
+      "quantity": 1
+    }
+  ],
+  "dim_white": [
+    {
+      "color": "drab_orange",
+      "quantity": 5
+    },
+    {
+      "color": "dark_fuchsia",
+      "quantity": 3
+    },
+    {
+      "color": "muted_coral",
+      "quantity": 4
+    },
+    {
+      "color": "shiny_aqua",
+      "quantity": 2
+    }
+  ],
+  "muted_lavender": [
+    {
+      "color": "faded_lime",
+      "quantity": 3
+    },
+    {
+      "color": "light_plum",
+      "quantity": 5
+    }
+  ],
+  "pale_blue": [
+    {
+      "color": "dotted_chartreuse",
+      "quantity": 4
+    }
+  ],
+  "clear_bronze": [
+    {
+      "color": "dull_magenta",
+      "quantity": 4
+    },
+    {
+      "color": "mirrored_fuchsia",
+      "quantity": 3
+    },
+    {
+      "color": "shiny_lime",
+      "quantity": 2
+    },
+    {
+      "color": "plaid_violet",
+      "quantity": 4
+    }
+  ],
+  "clear_magenta": [
+    {
+      "color": "wavy_blue",
+      "quantity": 4
+    },
+    {
+      "color": "dotted_lavender",
+      "quantity": 1
+    },
+    {
+      "color": "shiny_olive",
+      "quantity": 1
+    }
+  ],
+  "dotted_gold": [
+    {
+      "color": "shiny_coral",
+      "quantity": 3
+    },
+    {
+      "color": "bright_tan",
+      "quantity": 5
+    }
+  ],
+  "vibrant_violet": [
+    {
+      "color": "bright_olive",
+      "quantity": 4
+    }
+  ],
+  "posh_fuchsia": [
+    {
+      "color": "striped_crimson",
+      "quantity": 1
+    },
+    {
+      "color": "mirrored_gold",
+      "quantity": 5
+    },
+    {
+      "color": "muted_beige",
+      "quantity": 3
+    }
+  ],
+  "faded_white": [
+    {
+      "color": "plaid_purple",
+      "quantity": 5
+    },
+    {
+      "color": "posh_lime",
+      "quantity": 3
+    },
+    {
+      "color": "clear_blue",
+      "quantity": 3
+    }
+  ],
+  "dim_plum": [
+    {
+      "color": "posh_purple",
+      "quantity": 1
+    },
+    {
+      "color": "pale_indigo",
+      "quantity": 2
+    },
+    {
+      "color": "dark_lavender",
+      "quantity": 1
+    }
+  ],
+  "dull_lime": [
+    {
+      "color": "striped_magenta",
+      "quantity": 2
+    },
+    {
+      "color": "drab_tomato",
+      "quantity": 5
+    }
+  ],
+  "plaid_orange": [
+    {
+      "color": "faded_tan",
+      "quantity": 5
+    },
+    {
+      "color": "posh_aqua",
+      "quantity": 1
+    },
+    {
+      "color": "faded_red",
+      "quantity": 2
+    },
+    {
+      "color": "clear_red",
+      "quantity": 2
+    }
+  ],
+  "muted_white": [
+    {
+      "color": "striped_white",
+      "quantity": 2
+    }
+  ],
+  "bright_gold": [
+    {
+      "color": "wavy_beige",
+      "quantity": 3
+    },
+    {
+      "color": "faded_coral",
+      "quantity": 2
+    },
+    {
+      "color": "drab_chartreuse",
+      "quantity": 5
+    },
+    {
+      "color": "vibrant_brown",
+      "quantity": 1
+    }
+  ],
+  "pale_maroon": [
+    {
+      "color": "plaid_salmon",
+      "quantity": 2
+    },
+    {
+      "color": "muted_turquoise",
+      "quantity": 1
+    }
+  ],
+  "posh_cyan": [
+    {
+      "color": "dotted_brown",
+      "quantity": 1
+    },
+    {
+      "color": "shiny_magenta",
+      "quantity": 3
+    },
+    {
+      "color": "pale_brown",
+      "quantity": 2
+    }
+  ],
+  "striped_tomato": [
+    {
+      "color": "vibrant_lime",
+      "quantity": 5
+    },
+    {
+      "color": "dark_black",
+      "quantity": 1
+    }
+  ],
+  "dotted_magenta": [
+    {
+      "color": "wavy_turquoise",
+      "quantity": 2
+    },
+    {
+      "color": "striped_teal",
+      "quantity": 2
+    },
+    {
+      "color": "dotted_yellow",
+      "quantity": 5
+    },
+    {
+      "color": "drab_brown",
+      "quantity": 2
+    }
+  ],
+  "wavy_lavender": [
+    {
+      "color": "light_turquoise",
+      "quantity": 5
+    }
+  ],
+  "clear_plum": [
+    {
+      "color": "faded_tomato",
+      "quantity": 4
+    },
+    {
+      "color": "clear_yellow",
+      "quantity": 3
+    },
+    {
+      "color": "drab_silver",
+      "quantity": 5
+    },
+    {
+      "color": "dim_yellow",
+      "quantity": 5
+    }
+  ],
+  "muted_silver": [
+    {
+      "color": "pale_maroon",
+      "quantity": 5
+    },
+    {
+      "color": "posh_silver",
+      "quantity": 2
+    },
+    {
+      "color": "dotted_yellow",
+      "quantity": 2
+    },
+    {
+      "color": "muted_indigo",
+      "quantity": 1
+    }
+  ],
+  "muted_indigo": [
+    {
+      "color": "dull_beige",
+      "quantity": 5
+    },
+    {
+      "color": "striped_orange",
+      "quantity": 4
+    },
+    {
+      "color": "wavy_fuchsia",
+      "quantity": 2
+    },
+    {
+      "color": "muted_magenta",
+      "quantity": 3
+    }
+  ],
+  "light_teal": [
+    {
+      "color": "clear_magenta",
+      "quantity": 1
+    },
+    {
+      "color": "faded_olive",
+      "quantity": 4
+    },
+    {
+      "color": "dotted_purple",
+      "quantity": 5
+    },
+    {
+      "color": "clear_coral",
+      "quantity": 4
+    }
+  ],
+  "posh_purple": [
+    {
+      "color": "bright_tomato",
+      "quantity": 2
+    },
+    {
+      "color": "dark_gray",
+      "quantity": 5
+    },
+    {
+      "color": "clear_coral",
+      "quantity": 5
+    },
+    {
+      "color": "clear_turquoise",
+      "quantity": 5
+    }
+  ],
+  "muted_lime": [
+    {
+      "color": "mirrored_bronze",
+      "quantity": 1
+    }
+  ],
+  "pale_coral": [
+    {
+      "color": "vibrant_lime",
+      "quantity": 1
+    },
+    {
+      "color": "vibrant_black",
+      "quantity": 4
+    },
+    {
+      "color": "vibrant_magenta",
+      "quantity": 2
+    }
+  ],
+  "mirrored_orange": [
+    {
+      "color": "dim_orange",
+      "quantity": 1
+    },
+    {
+      "color": "faded_purple",
+      "quantity": 4
+    },
+    {
+      "color": "dull_bronze",
+      "quantity": 5
+    },
+    {
+      "color": "dull_green",
+      "quantity": 5
+    }
+  ],
+  "vibrant_bronze": [
+    {
+      "color": "muted_gold",
+      "quantity": 1
+    }
+  ],
+  "plaid_white": [
+    {
+      "color": "dull_yellow",
+      "quantity": 4
+    }
+  ],
+  "dark_white": [
+    {
+      "color": "drab_magenta",
+      "quantity": 2
+    },
+    {
+      "color": "dull_beige",
+      "quantity": 5
+    }
+  ],
+  "dull_olive": [
+    {
+      "color": "muted_teal",
+      "quantity": 2
+    },
+    {
+      "color": "posh_purple",
+      "quantity": 4
+    },
+    {
+      "color": "muted_lime",
+      "quantity": 2
+    }
+  ],
+  "dull_fuchsia": [
+    {
+      "color": "wavy_olive",
+      "quantity": 1
+    },
+    {
+      "color": "bright_aqua",
+      "quantity": 4
+    },
+    {
+      "color": "vibrant_purple",
+      "quantity": 5
+    },
+    {
+      "color": "shiny_purple",
+      "quantity": 3
+    }
+  ],
+  "dim_purple": [
+    {
+      "color": "light_brown",
+      "quantity": 5
+    }
+  ],
+  "mirrored_purple": [
+    {
+      "color": "clear_coral",
+      "quantity": 5
+    }
+  ],
+  "dim_bronze": [
+    {
+      "color": "dull_teal",
+      "quantity": 3
+    },
+    {
+      "color": "posh_blue",
+      "quantity": 3
+    },
+    {
+      "color": "dull_purple",
+      "quantity": 1
+    },
+    {
+      "color": "striped_chartreuse",
+      "quantity": 4
+    }
+  ],
+  "light_brown": [
+    {
+      "color": "plaid_olive",
+      "quantity": 1
+    },
+    {
+      "color": "vibrant_tan",
+      "quantity": 1
+    },
+    {
+      "color": "dotted_orange",
+      "quantity": 2
+    }
+  ],
+  "faded_turquoise": [
+    {
+      "color": "dotted_fuchsia",
+      "quantity": 2
+    },
+    {
+      "color": "muted_orange",
+      "quantity": 5
+    }
+  ],
+  "striped_gold": [
+    {
+      "color": "drab_olive",
+      "quantity": 3
+    },
+    {
+      "color": "vibrant_green",
+      "quantity": 1
+    },
+    {
+      "color": "shiny_gold",
+      "quantity": 3
+    }
+  ],
+  "light_black": [
+    {
+      "color": "shiny_magenta",
+      "quantity": 3
+    },
+    {
+      "color": "posh_green",
+      "quantity": 4
+    }
+  ],
+  "dull_indigo": [
+    {
+      "color": "muted_bronze",
+      "quantity": 2
+    },
+    {
+      "color": "plaid_magenta",
+      "quantity": 5
+    }
+  ],
+  "light_red": [
+    {
+      "color": "dim_teal",
+      "quantity": 4
+    },
+    {
+      "color": "muted_yellow",
+      "quantity": 3
+    },
+    {
+      "color": "dotted_gray",
+      "quantity": 1
+    }
+  ],
+  "dark_coral": [
+    {
+      "color": "dotted_chartreuse",
+      "quantity": 3
+    },
+    {
+      "color": "bright_orange",
+      "quantity": 3
+    },
+    {
+      "color": "shiny_magenta",
+      "quantity": 4
+    }
+  ],
+  "dark_cyan": [
+    {
+      "color": "striped_magenta",
+      "quantity": 3
+    }
+  ],
+  "plaid_bronze": [
+    {
+      "color": "shiny_blue",
+      "quantity": 3
+    }
+  ],
+  "muted_cyan": [
+    {
+      "color": "posh_green",
+      "quantity": 1
+    }
+  ],
+  "wavy_orange": [
+    {
+      "color": "posh_green",
+      "quantity": 1
+    },
+    {
+      "color": "vibrant_cyan",
+      "quantity": 1
+    },
+    {
+      "color": "dark_maroon",
+      "quantity": 1
+    },
+    {
+      "color": "dull_teal",
+      "quantity": 1
+    }
+  ],
+  "shiny_salmon": [
+    {
+      "color": "dotted_yellow",
+      "quantity": 1
+    },
+    {
+      "color": "striped_olive",
+      "quantity": 1
+    },
+    {
+      "color": "dull_teal",
+      "quantity": 4
+    },
+    {
+      "color": "drab_magenta",
+      "quantity": 3
+    }
+  ],
+  "pale_turquoise": [
+    {
+      "color": "bright_crimson",
+      "quantity": 4
+    },
+    {
+      "color": "dotted_fuchsia",
+      "quantity": 5
+    },
+    {
+      "color": "faded_turquoise",
+      "quantity": 1
+    },
+    {
+      "color": "muted_turquoise",
+      "quantity": 5
+    }
+  ],
+  "dotted_silver": [
+    {
+      "color": "dark_orange",
+      "quantity": 5
+    },
+    {
+      "color": "dotted_olive",
+      "quantity": 4
+    },
+    {
+      "color": "pale_bronze",
+      "quantity": 4
+    },
+    {
+      "color": "dull_yellow",
+      "quantity": 3
+    }
+  ],
+  "dotted_red": [
+    {
+      "color": "dull_white",
+      "quantity": 4
+    },
+    {
+      "color": "shiny_plum",
+      "quantity": 2
+    },
+    {
+      "color": "pale_gold",
+      "quantity": 2
+    }
+  ],
+  "striped_blue": [
+    {
+      "color": "shiny_orange",
+      "quantity": 4
+    },
+    {
+      "color": "striped_orange",
+      "quantity": 1
+    }
+  ],
+  "dotted_tan": [
+    {
+      "color": "dark_brown",
+      "quantity": 3
+    },
+    {
+      "color": "wavy_yellow",
+      "quantity": 3
+    },
+    {
+      "color": "dotted_fuchsia",
+      "quantity": 5
+    }
+  ],
+  "shiny_green": [
+    {
+      "color": "dark_olive",
+      "quantity": 2
+    },
+    {
+      "color": "clear_indigo",
+      "quantity": 2
+    },
+    {
+      "color": "striped_salmon",
+      "quantity": 2
+    }
+  ],
+  "wavy_tan": [
+    {
+      "color": "mirrored_purple",
+      "quantity": 4
+    },
+    {
+      "color": "mirrored_blue",
+      "quantity": 3
+    },
+    {
+      "color": "clear_turquoise",
+      "quantity": 3
+    },
+    {
+      "color": "vibrant_purple",
+      "quantity": 4
+    }
+  ],
+  "dark_brown": [
+    {
+      "color": "shiny_olive",
+      "quantity": 2
+    },
+    {
+      "color": "dull_aqua",
+      "quantity": 1
+    }
+  ],
+  "plaid_cyan": [
+    {
+      "color": "dull_aqua",
+      "quantity": 3
+    },
+    {
+      "color": "muted_teal",
+      "quantity": 1
+    }
+  ],
+  "dark_tomato": [
+    {
+      "color": "faded_lime",
+      "quantity": 2
+    },
+    {
+      "color": "dark_cyan",
+      "quantity": 2
+    },
+    {
+      "color": "vibrant_gray",
+      "quantity": 4
+    }
+  ],
+  "dark_gold": [
+    {
+      "color": "pale_teal",
+      "quantity": 3
+    },
+    {
+      "color": "posh_chartreuse",
+      "quantity": 3
+    },
+    {
+      "color": "pale_tan",
+      "quantity": 3
+    },
+    {
+      "color": "drab_magenta",
+      "quantity": 2
+    }
+  ],
+  "striped_indigo": [
+    {
+      "color": "striped_black",
+      "quantity": 4
+    },
+    {
+      "color": "vibrant_black",
+      "quantity": 3
+    },
+    {
+      "color": "mirrored_turquoise",
+      "quantity": 2
+    },
+    {
+      "color": "dark_coral",
+      "quantity": 3
+    }
+  ],
+  "faded_lavender": [
+    {
+      "color": "muted_turquoise",
+      "quantity": 1
+    },
+    {
+      "color": "dull_bronze",
+      "quantity": 3
+    },
+    {
+      "color": "bright_red",
+      "quantity": 3
+    },
+    {
+      "color": "dull_turquoise",
+      "quantity": 2
+    }
+  ],
+  "wavy_black": [
+    {
+      "color": "dotted_purple",
+      "quantity": 3
+    }
+  ],
+  "faded_plum": [
+    {
+      "color": "plaid_lavender",
+      "quantity": 4
+    },
+    {
+      "color": "dark_lavender",
+      "quantity": 5
+    },
+    {
+      "color": "dark_black",
+      "quantity": 5
+    },
+    {
+      "color": "striped_crimson",
+      "quantity": 3
+    }
+  ],
+  "posh_olive": [
+    {
+      "color": "striped_beige",
+      "quantity": 2
+    },
+    {
+      "color": "plaid_crimson",
+      "quantity": 1
+    }
+  ],
+  "dim_green": [
+    {
+      "color": "faded_brown",
+      "quantity": 5
+    }
+  ],
+  "mirrored_magenta": [
+    {
+      "color": "clear_yellow",
+      "quantity": 5
+    }
+  ],
+  "pale_red": [
+    {
+      "color": "dotted_purple",
+      "quantity": 2
+    },
+    {
+      "color": "dotted_tan",
+      "quantity": 5
+    },
+    {
+      "color": "dark_brown",
+      "quantity": 2
+    }
+  ],
+  "bright_black": [
+    {
+      "color": "dark_maroon",
+      "quantity": 1
+    }
+  ],
+  "dark_gray": [],
+  "mirrored_plum": [
+    {
+      "color": "bright_orange",
+      "quantity": 5
+    },
+    {
+      "color": "muted_purple",
+      "quantity": 3
+    }
+  ],
+  "bright_turquoise": [
+    {
+      "color": "vibrant_yellow",
+      "quantity": 5
+    }
+  ],
+  "posh_beige": [
+    {
+      "color": "dim_green",
+      "quantity": 4
+    },
+    {
+      "color": "posh_gold",
+      "quantity": 3
+    }
+  ],
+  "bright_maroon": [
+    {
+      "color": "muted_blue",
+      "quantity": 2
+    },
+    {
+      "color": "shiny_plum",
+      "quantity": 5
+    }
+  ],
+  "bright_brown": [
+    {
+      "color": "muted_black",
+      "quantity": 2
+    }
+  ],
+  "shiny_yellow": [
+    {
+      "color": "muted_olive",
+      "quantity": 5
+    },
+    {
+      "color": "wavy_tomato",
+      "quantity": 5
+    },
+    {
+      "color": "mirrored_green",
+      "quantity": 1
+    }
+  ],
+  "dim_tomato": [
+    {
+      "color": "drab_chartreuse",
+      "quantity": 5
+    }
+  ],
+  "posh_turquoise": [
+    {
+      "color": "drab_green",
+      "quantity": 4
+    },
+    {
+      "color": "dim_gold",
+      "quantity": 2
+    }
+  ],
+  "posh_blue": [
+    {
+      "color": "shiny_bronze",
+      "quantity": 3
+    },
+    {
+      "color": "dull_white",
+      "quantity": 3
+    },
+    {
+      "color": "clear_beige",
+      "quantity": 3
+    },
+    {
+      "color": "dull_cyan",
+      "quantity": 4
+    }
+  ],
+  "wavy_green": [
+    {
+      "color": "pale_bronze",
+      "quantity": 5
+    },
+    {
+      "color": "dull_maroon",
+      "quantity": 3
+    },
+    {
+      "color": "dark_purple",
+      "quantity": 4
+    }
+  ],
+  "posh_violet": [
+    {
+      "color": "plaid_fuchsia",
+      "quantity": 4
+    },
+    {
+      "color": "clear_salmon",
+      "quantity": 1
+    }
+  ],
+  "bright_beige": [
+    {
+      "color": "faded_maroon",
+      "quantity": 1
+    },
+    {
+      "color": "dim_brown",
+      "quantity": 2
+    },
+    {
+      "color": "dull_chartreuse",
+      "quantity": 1
+    }
+  ],
+  "dim_violet": [
+    {
+      "color": "vibrant_bronze",
+      "quantity": 5
+    }
+  ],
+  "mirrored_gold": [
+    {
+      "color": "light_violet",
+      "quantity": 5
+    },
+    {
+      "color": "mirrored_tan",
+      "quantity": 2
+    }
+  ],
+  "mirrored_lavender": [
+    {
+      "color": "dotted_white",
+      "quantity": 5
+    },
+    {
+      "color": "wavy_chartreuse",
+      "quantity": 3
+    },
+    {
+      "color": "shiny_lavender",
+      "quantity": 2
+    }
+  ],
+  "pale_silver": [
+    {
+      "color": "mirrored_turquoise",
+      "quantity": 4
+    },
+    {
+      "color": "faded_coral",
+      "quantity": 3
+    },
+    {
+      "color": "wavy_yellow",
+      "quantity": 5
+    },
+    {
+      "color": "shiny_gold",
+      "quantity": 5
+    }
+  ],
+  "shiny_lime": [
+    {
+      "color": "plaid_indigo",
+      "quantity": 1
+    }
+  ],
+  "dim_cyan": [
+    {
+      "color": "dim_teal",
+      "quantity": 4
+    }
+  ],
+  "wavy_violet": [
+    {
+      "color": "plaid_beige",
+      "quantity": 2
+    }
+  ],
+  "striped_brown": [
+    {
+      "color": "plaid_silver",
+      "quantity": 4
+    },
+    {
+      "color": "striped_violet",
+      "quantity": 4
+    },
+    {
+      "color": "muted_gold",
+      "quantity": 2
+    },
+    {
+      "color": "plaid_yellow",
+      "quantity": 1
+    }
+  ],
+  "pale_chartreuse": [
+    {
+      "color": "dark_coral",
+      "quantity": 3
+    },
+    {
+      "color": "faded_olive",
+      "quantity": 2
+    }
+  ],
+  "mirrored_fuchsia": [
+    {
+      "color": "plaid_lavender",
+      "quantity": 1
+    },
+    {
+      "color": "dark_coral",
+      "quantity": 5
+    },
+    {
+      "color": "light_green",
+      "quantity": 5
+    },
+    {
+      "color": "dotted_bronze",
+      "quantity": 1
+    }
+  ],
+  "dotted_cyan": [
+    {
+      "color": "posh_gold",
+      "quantity": 5
+    },
+    {
+      "color": "vibrant_red",
+      "quantity": 5
+    }
+  ],
+  "shiny_gold": [
+    {
+      "color": "dark_brown",
+      "quantity": 2
+    },
+    {
+      "color": "mirrored_coral",
+      "quantity": 2
+    },
+    {
+      "color": "faded_olive",
+      "quantity": 1
+    },
+    {
+      "color": "posh_bronze",
+      "quantity": 1
+    }
+  ],
+  "striped_coral": [
+    {
+      "color": "clear_red",
+      "quantity": 3
+    },
+    {
+      "color": "mirrored_crimson",
+      "quantity": 2
+    }
+  ],
+  "striped_beige": [
+    {
+      "color": "plaid_salmon",
+      "quantity": 5
+    },
+    {
+      "color": "dim_lime",
+      "quantity": 4
+    },
+    {
+      "color": "dark_brown",
+      "quantity": 3
+    }
+  ],
+  "plaid_lavender": [
+    {
+      "color": "dotted_olive",
+      "quantity": 2
+    },
+    {
+      "color": "faded_olive",
+      "quantity": 4
+    },
+    {
+      "color": "shiny_magenta",
+      "quantity": 4
+    }
+  ],
+  "muted_crimson": [
+    {
+      "color": "shiny_purple",
+      "quantity": 3
+    }
+  ],
+  "mirrored_crimson": [
+    {
+      "color": "muted_teal",
+      "quantity": 2
+    },
+    {
+      "color": "dotted_purple",
+      "quantity": 3
+    },
+    {
+      "color": "pale_teal",
+      "quantity": 5
+    }
+  ],
+  "posh_salmon": [
+    {
+      "color": "vibrant_turquoise",
+      "quantity": 5
+    },
+    {
+      "color": "muted_black",
+      "quantity": 3
+    },
+    {
+      "color": "pale_indigo",
+      "quantity": 3
+    },
+    {
+      "color": "shiny_plum",
+      "quantity": 2
+    }
+  ],
+  "vibrant_coral": [
+    {
+      "color": "drab_magenta",
+      "quantity": 2
+    },
+    {
+      "color": "faded_red",
+      "quantity": 2
+    },
+    {
+      "color": "plaid_magenta",
+      "quantity": 4
+    },
+    {
+      "color": "muted_cyan",
+      "quantity": 4
+    }
+  ],
+  "shiny_crimson": [
+    {
+      "color": "dotted_beige",
+      "quantity": 1
+    },
+    {
+      "color": "mirrored_turquoise",
+      "quantity": 2
+    },
+    {
+      "color": "clear_gray",
+      "quantity": 5
+    },
+    {
+      "color": "dim_lavender",
+      "quantity": 1
+    }
+  ],
+  "posh_bronze": [
+    {
+      "color": "clear_coral",
+      "quantity": 5
+    },
+    {
+      "color": "dotted_lime",
+      "quantity": 1
+    },
+    {
+      "color": "faded_olive",
+      "quantity": 5
+    },
+    {
+      "color": "dim_red",
+      "quantity": 3
+    }
+  ],
+  "faded_purple": [
+    {
+      "color": "plaid_white",
+      "quantity": 1
+    },
+    {
+      "color": "posh_lime",
+      "quantity": 4
+    },
+    {
+      "color": "pale_turquoise",
+      "quantity": 5
+    }
+  ],
+  "posh_magenta": [
+    {
+      "color": "dull_turquoise",
+      "quantity": 2
+    },
+    {
+      "color": "dark_black",
+      "quantity": 2
+    },
+    {
+      "color": "bright_red",
+      "quantity": 1
+    }
+  ],
+  "faded_brown": [
+    {
+      "color": "mirrored_bronze",
+      "quantity": 5
+    },
+    {
+      "color": "mirrored_coral",
+      "quantity": 1
+    },
+    {
+      "color": "muted_white",
+      "quantity": 5
+    },
+    {
+      "color": "dim_orange",
+      "quantity": 5
+    }
+  ],
+  "faded_violet": [
+    {
+      "color": "pale_white",
+      "quantity": 4
+    },
+    {
+      "color": "bright_tomato",
+      "quantity": 1
+    },
+    {
+      "color": "posh_gray",
+      "quantity": 4
+    }
+  ],
+  "mirrored_teal": [
+    {
+      "color": "pale_crimson",
+      "quantity": 1
+    },
+    {
+      "color": "striped_lime",
+      "quantity": 4
+    },
+    {
+      "color": "plaid_purple",
+      "quantity": 5
+    }
+  ],
+  "drab_crimson": [
+    {
+      "color": "mirrored_lime",
+      "quantity": 5
+    }
+  ],
+  "posh_maroon": [
+    {
+      "color": "faded_olive",
+      "quantity": 5
+    },
+    {
+      "color": "bright_black",
+      "quantity": 4
+    },
+    {
+      "color": "muted_tomato",
+      "quantity": 5
+    }
+  ],
+  "muted_magenta": [
+    {
+      "color": "shiny_olive",
+      "quantity": 5
+    },
+    {
+      "color": "posh_purple",
+      "quantity": 4
+    }
+  ],
+  "muted_olive": [
+    {
+      "color": "dull_plum",
+      "quantity": 3
+    },
+    {
+      "color": "clear_turquoise",
+      "quantity": 4
+    },
+    {
+      "color": "clear_purple",
+      "quantity": 4
+    }
+  ],
+  "dark_tan": [
+    {
+      "color": "vibrant_teal",
+      "quantity": 4
+    },
+    {
+      "color": "dotted_chartreuse",
+      "quantity": 3
+    },
+    {
+      "color": "clear_crimson",
+      "quantity": 5
+    }
+  ],
+  "dotted_violet": [
+    {
+      "color": "dull_cyan",
+      "quantity": 4
+    },
+    {
+      "color": "wavy_blue",
+      "quantity": 2
+    },
+    {
+      "color": "posh_yellow",
+      "quantity": 1
+    }
+  ],
+  "mirrored_turquoise": [
+    {
+      "color": "pale_crimson",
+      "quantity": 4
+    },
+    {
+      "color": "faded_lime",
+      "quantity": 2
+    }
+  ],
+  "muted_teal": [
+    {
+      "color": "vibrant_indigo",
+      "quantity": 5
+    },
+    {
+      "color": "bright_tomato",
+      "quantity": 2
+    },
+    {
+      "color": "drab_magenta",
+      "quantity": 5
+    },
+    {
+      "color": "dim_red",
+      "quantity": 2
+    }
+  ],
+  "plaid_plum": [
+    {
+      "color": "mirrored_bronze",
+      "quantity": 1
+    },
+    {
+      "color": "dim_orange",
+      "quantity": 5
+    },
+    {
+      "color": "dim_beige",
+      "quantity": 2
+    }
+  ],
+  "posh_gray": [
+    {
+      "color": "faded_coral",
+      "quantity": 1
+    },
+    {
+      "color": "dark_crimson",
+      "quantity": 2
+    }
+  ],
+  "dotted_tomato": [
+    {
+      "color": "plaid_silver",
+      "quantity": 1
+    },
+    {
+      "color": "clear_gold",
+      "quantity": 4
+    },
+    {
+      "color": "faded_violet",
+      "quantity": 1
+    }
+  ],
+  "shiny_teal": [
+    {
+      "color": "muted_plum",
+      "quantity": 2
+    },
+    {
+      "color": "mirrored_olive",
+      "quantity": 3
+    }
+  ],
+  "posh_orange": [
+    {
+      "color": "faded_aqua",
+      "quantity": 1
+    },
+    {
+      "color": "wavy_indigo",
+      "quantity": 1
+    },
+    {
+      "color": "muted_magenta",
+      "quantity": 2
+    },
+    {
+      "color": "faded_beige",
+      "quantity": 2
+    }
+  ],
+  "light_tan": [
+    {
+      "color": "faded_lime",
+      "quantity": 1
+    }
+  ],
+  "pale_cyan": [
+    {
+      "color": "drab_black",
+      "quantity": 4
+    },
+    {
+      "color": "wavy_black",
+      "quantity": 2
+    }
+  ],
+  "dark_olive": [
+    {
+      "color": "dark_gray",
+      "quantity": 4
+    },
+    {
+      "color": "drab_olive",
+      "quantity": 5
+    },
+    {
+      "color": "light_coral",
+      "quantity": 2
+    }
+  ],
+  "drab_olive": [
+    {
+      "color": "dotted_fuchsia",
+      "quantity": 1
+    },
+    {
+      "color": "dull_tan",
+      "quantity": 4
+    },
+    {
+      "color": "plaid_turquoise",
+      "quantity": 3
+    }
+  ],
+  "vibrant_brown": [
+    {
+      "color": "striped_bronze",
+      "quantity": 3
+    },
+    {
+      "color": "dull_yellow",
+      "quantity": 1
+    },
+    {
+      "color": "wavy_yellow",
+      "quantity": 5
+    },
+    {
+      "color": "drab_cyan",
+      "quantity": 4
+    }
+  ],
+  "wavy_gray": [
+    {
+      "color": "faded_lime",
+      "quantity": 1
+    },
+    {
+      "color": "shiny_purple",
+      "quantity": 3
+    },
+    {
+      "color": "vibrant_cyan",
+      "quantity": 3
+    },
+    {
+      "color": "dotted_fuchsia",
+      "quantity": 2
+    }
+  ],
+  "pale_gray": [
+    {
+      "color": "striped_orange",
+      "quantity": 2
+    },
+    {
+      "color": "plaid_green",
+      "quantity": 1
+    },
+    {
+      "color": "faded_orange",
+      "quantity": 2
+    },
+    {
+      "color": "mirrored_blue",
+      "quantity": 3
+    }
+  ],
+  "posh_crimson": [
+    {
+      "color": "clear_orange",
+      "quantity": 3
+    },
+    {
+      "color": "faded_indigo",
+      "quantity": 5
+    }
+  ],
+  "vibrant_teal": [
+    {
+      "color": "dark_black",
+      "quantity": 5
+    },
+    {
+      "color": "dim_silver",
+      "quantity": 4
+    }
+  ],
+  "faded_bronze": [
+    {
+      "color": "posh_bronze",
+      "quantity": 2
+    },
+    {
+      "color": "bright_tomato",
+      "quantity": 4
+    }
+  ],
+  "plaid_violet": [
+    {
+      "color": "plaid_indigo",
+      "quantity": 3
+    },
+    {
+      "color": "dull_black",
+      "quantity": 5
+    },
+    {
+      "color": "striped_indigo",
+      "quantity": 1
+    },
+    {
+      "color": "drab_blue",
+      "quantity": 2
+    }
+  ],
+  "muted_black": [
+    {
+      "color": "pale_indigo",
+      "quantity": 1
+    }
+  ],
+  "bright_green": [
+    {
+      "color": "vibrant_orange",
+      "quantity": 5
+    },
+    {
+      "color": "muted_orange",
+      "quantity": 3
+    },
+    {
+      "color": "pale_violet",
+      "quantity": 1
+    },
+    {
+      "color": "muted_olive",
+      "quantity": 1
+    }
+  ],
+  "wavy_chartreuse": [
+    {
+      "color": "dark_fuchsia",
+      "quantity": 1
+    },
+    {
+      "color": "vibrant_teal",
+      "quantity": 1
+    },
+    {
+      "color": "wavy_purple",
+      "quantity": 1
+    }
+  ],
+  "dotted_gray": [
+    {
+      "color": "plaid_chartreuse",
+      "quantity": 3
+    },
+    {
+      "color": "faded_violet",
+      "quantity": 2
+    }
+  ],
+  "dull_violet": [
+    {
+      "color": "wavy_gold",
+      "quantity": 4
+    }
+  ],
+  "bright_tomato": [],
+  "plaid_purple": [
+    {
+      "color": "drab_lavender",
+      "quantity": 2
+    },
+    {
+      "color": "dim_red",
+      "quantity": 3
+    },
+    {
+      "color": "dark_chartreuse",
+      "quantity": 5
+    },
+    {
+      "color": "dotted_brown",
+      "quantity": 5
+    }
+  ],
+  "vibrant_chartreuse": [
+    {
+      "color": "striped_orange",
+      "quantity": 5
+    },
+    {
+      "color": "faded_blue",
+      "quantity": 4
+    },
+    {
+      "color": "plaid_salmon",
+      "quantity": 1
+    }
+  ],
+  "light_silver": [
+    {
+      "color": "posh_purple",
+      "quantity": 5
+    },
+    {
+      "color": "light_tan",
+      "quantity": 5
+    },
+    {
+      "color": "pale_fuchsia",
+      "quantity": 4
+    }
+  ],
+  "dim_salmon": [
+    {
+      "color": "shiny_lime",
+      "quantity": 4
+    },
+    {
+      "color": "light_tan",
+      "quantity": 3
+    },
+    {
+      "color": "dim_orange",
+      "quantity": 5
+    },
+    {
+      "color": "mirrored_coral",
+      "quantity": 5
+    }
+  ],
+  "plaid_gray": [
+    {
+      "color": "bright_coral",
+      "quantity": 2
+    },
+    {
+      "color": "plaid_tan",
+      "quantity": 2
+    },
+    {
+      "color": "dark_crimson",
+      "quantity": 3
+    },
+    {
+      "color": "dotted_lavender",
+      "quantity": 4
+    }
+  ],
+  "dull_gold": [
+    {
+      "color": "mirrored_indigo",
+      "quantity": 2
+    }
+  ],
+  "light_blue": [
+    {
+      "color": "striped_gray",
+      "quantity": 2
+    },
+    {
+      "color": "wavy_tan",
+      "quantity": 1
+    },
+    {
+      "color": "clear_crimson",
+      "quantity": 4
+    }
+  ],
+  "wavy_brown": [
+    {
+      "color": "light_coral",
+      "quantity": 3
+    },
+    {
+      "color": "dotted_maroon",
+      "quantity": 4
+    },
+    {
+      "color": "dim_silver",
+      "quantity": 5
+    },
+    {
+      "color": "plaid_black",
+      "quantity": 2
+    }
+  ],
+  "drab_black": [
+    {
+      "color": "dull_yellow",
+      "quantity": 4
+    }
+  ],
+  "shiny_plum": [
+    {
+      "color": "drab_olive",
+      "quantity": 5
+    },
+    {
+      "color": "dark_tan",
+      "quantity": 4
+    }
+  ],
+  "dim_red": [
+    {
+      "color": "light_violet",
+      "quantity": 2
+    },
+    {
+      "color": "clear_coral",
+      "quantity": 4
+    }
+  ],
+  "vibrant_salmon": [
+    {
+      "color": "striped_violet",
+      "quantity": 5
+    },
+    {
+      "color": "pale_silver",
+      "quantity": 2
+    },
+    {
+      "color": "clear_orange",
+      "quantity": 5
+    }
+  ],
+  "dull_crimson": [
+    {
+      "color": "vibrant_blue",
+      "quantity": 1
+    },
+    {
+      "color": "posh_red",
+      "quantity": 4
+    },
+    {
+      "color": "muted_bronze",
+      "quantity": 5
+    },
+    {
+      "color": "dim_olive",
+      "quantity": 4
+    }
+  ],
+  "vibrant_purple": [
+    {
+      "color": "muted_turquoise",
+      "quantity": 3
+    },
+    {
+      "color": "striped_gold",
+      "quantity": 5
+    }
+  ],
+  "vibrant_plum": [
+    {
+      "color": "dull_teal",
+      "quantity": 1
+    },
+    {
+      "color": "posh_purple",
+      "quantity": 5
+    }
+  ],
+  "shiny_silver": [
+    {
+      "color": "clear_plum",
+      "quantity": 1
+    }
+  ],
+  "plaid_beige": [
+    {
+      "color": "shiny_magenta",
+      "quantity": 1
+    },
+    {
+      "color": "posh_gray",
+      "quantity": 5
+    }
+  ],
+  "dull_tan": [
+    {
+      "color": "posh_purple",
+      "quantity": 1
+    }
+  ],
+  "mirrored_coral": [
+    {
+      "color": "pale_aqua",
+      "quantity": 3
+    }
+  ],
+  "dim_brown": [
+    {
+      "color": "dark_turquoise",
+      "quantity": 2
+    },
+    {
+      "color": "dark_orange",
+      "quantity": 4
+    },
+    {
+      "color": "posh_olive",
+      "quantity": 3
+    },
+    {
+      "color": "light_chartreuse",
+      "quantity": 2
+    }
+  ],
+  "muted_gold": [],
+  "drab_lavender": [
+    {
+      "color": "shiny_purple",
+      "quantity": 5
+    },
+    {
+      "color": "dotted_bronze",
+      "quantity": 5
+    }
+  ],
+  "muted_red": [
+    {
+      "color": "drab_lavender",
+      "quantity": 3
+    },
+    {
+      "color": "dim_tomato",
+      "quantity": 1
+    },
+    {
+      "color": "light_olive",
+      "quantity": 3
+    },
+    {
+      "color": "dull_aqua",
+      "quantity": 2
+    }
+  ],
+  "dotted_lime": [
+    {
+      "color": "drab_magenta",
+      "quantity": 4
+    },
+    {
+      "color": "dark_black",
+      "quantity": 1
+    },
+    {
+      "color": "posh_purple",
+      "quantity": 2
+    }
+  ],
+  "plaid_turquoise": [],
+  "clear_orange": [
+    {
+      "color": "shiny_magenta",
+      "quantity": 5
+    },
+    {
+      "color": "light_indigo",
+      "quantity": 4
+    },
+    {
+      "color": "muted_yellow",
+      "quantity": 1
+    }
+  ],
+  "dim_gray": [
+    {
+      "color": "posh_fuchsia",
+      "quantity": 4
+    },
+    {
+      "color": "clear_gray",
+      "quantity": 5
+    },
+    {
+      "color": "clear_beige",
+      "quantity": 2
+    }
+  ],
+  "muted_tan": [
+    {
+      "color": "vibrant_turquoise",
+      "quantity": 5
+    },
+    {
+      "color": "mirrored_gold",
+      "quantity": 2
+    }
+  ],
+  "shiny_white": [
+    {
+      "color": "dim_indigo",
+      "quantity": 5
+    },
+    {
+      "color": "shiny_blue",
+      "quantity": 4
+    },
+    {
+      "color": "clear_lavender",
+      "quantity": 5
+    },
+    {
+      "color": "dim_teal",
+      "quantity": 3
+    }
+  ],
+  "pale_lavender": [
+    {
+      "color": "faded_green",
+      "quantity": 1
+    },
+    {
+      "color": "light_plum",
+      "quantity": 3
+    },
+    {
+      "color": "dim_bronze",
+      "quantity": 1
+    }
+  ],
+  "bright_plum": [
+    {
+      "color": "mirrored_turquoise",
+      "quantity": 2
+    },
+    {
+      "color": "shiny_orange",
+      "quantity": 2
+    },
+    {
+      "color": "bright_tomato",
+      "quantity": 5
+    },
+    {
+      "color": "bright_aqua",
+      "quantity": 1
+    }
+  ],
+  "vibrant_tan": [
+    {
+      "color": "dark_lavender",
+      "quantity": 5
+    }
+  ],
+  "wavy_olive": [
+    {
+      "color": "dull_salmon",
+      "quantity": 4
+    },
+    {
+      "color": "mirrored_purple",
+      "quantity": 5
+    }
+  ],
+  "vibrant_yellow": [
+    {
+      "color": "striped_white",
+      "quantity": 2
+    },
+    {
+      "color": "pale_gold",
+      "quantity": 3
+    },
+    {
+      "color": "muted_gold",
+      "quantity": 4
+    },
+    {
+      "color": "dull_cyan",
+      "quantity": 2
+    }
+  ],
+  "clear_maroon": [
+    {
+      "color": "faded_turquoise",
+      "quantity": 4
+    },
+    {
+      "color": "bright_blue",
+      "quantity": 3
+    },
+    {
+      "color": "dark_brown",
+      "quantity": 4
+    },
+    {
+      "color": "shiny_indigo",
+      "quantity": 2
+    }
+  ],
+  "muted_tomato": [
+    {
+      "color": "dim_aqua",
+      "quantity": 4
+    },
+    {
+      "color": "light_black",
+      "quantity": 5
+    }
+  ],
+  "striped_lavender": [
+    {
+      "color": "striped_gold",
+      "quantity": 4
+    },
+    {
+      "color": "dark_turquoise",
+      "quantity": 4
+    }
+  ],
+  "dull_chartreuse": [
+    {
+      "color": "dotted_purple",
+      "quantity": 1
+    },
+    {
+      "color": "wavy_indigo",
+      "quantity": 2
+    },
+    {
+      "color": "posh_blue",
+      "quantity": 2
+    }
+  ],
+  "dark_blue": [
+    {
+      "color": "drab_orange",
+      "quantity": 2
+    }
+  ],
+  "clear_coral": [
+    {
+      "color": "muted_gold",
+      "quantity": 1
+    },
+    {
+      "color": "drab_magenta",
+      "quantity": 5
+    },
+    {
+      "color": "bright_tomato",
+      "quantity": 5
+    }
+  ],
+  "clear_black": [
+    {
+      "color": "faded_coral",
+      "quantity": 1
+    }
+  ],
+  "dotted_blue": [
+    {
+      "color": "shiny_gold",
+      "quantity": 3
+    },
+    {
+      "color": "mirrored_purple",
+      "quantity": 3
+    },
+    {
+      "color": "pale_maroon",
+      "quantity": 5
+    }
+  ],
+  "muted_turquoise": [
+    {
+      "color": "posh_green",
+      "quantity": 3
+    }
+  ],
+  "dotted_indigo": [
+    {
+      "color": "mirrored_tan",
+      "quantity": 1
+    }
+  ],
+  "dotted_olive": [
+    {
+      "color": "vibrant_indigo",
+      "quantity": 2
+    },
+    {
+      "color": "dull_purple",
+      "quantity": 4
+    },
+    {
+      "color": "dull_salmon",
+      "quantity": 4
+    }
+  ],
+  "dull_yellow": [
+    {
+      "color": "dim_red",
+      "quantity": 1
+    },
+    {
+      "color": "pale_fuchsia",
+      "quantity": 3
+    },
+    {
+      "color": "shiny_gold",
+      "quantity": 5
+    },
+    {
+      "color": "dull_aqua",
+      "quantity": 4
+    }
+  ],
+  "wavy_white": [
+    {
+      "color": "pale_salmon",
+      "quantity": 2
+    },
+    {
+      "color": "striped_beige",
+      "quantity": 2
+    },
+    {
+      "color": "pale_aqua",
+      "quantity": 1
+    }
+  ],
+  "clear_beige": [
+    {
+      "color": "dull_yellow",
+      "quantity": 3
+    },
+    {
+      "color": "shiny_red",
+      "quantity": 2
+    }
+  ],
+  "light_gold": [
+    {
+      "color": "striped_magenta",
+      "quantity": 2
+    },
+    {
+      "color": "pale_salmon",
+      "quantity": 2
+    }
+  ],
+  "dotted_brown": [
+    {
+      "color": "drab_blue",
+      "quantity": 1
+    }
+  ],
+  "posh_gold": [
+    {
+      "color": "wavy_purple",
+      "quantity": 1
+    },
+    {
+      "color": "clear_magenta",
+      "quantity": 1
+    },
+    {
+      "color": "clear_turquoise",
+      "quantity": 3
+    }
+  ],
+  "bright_yellow": [
+    {
+      "color": "dull_maroon",
+      "quantity": 2
+    },
+    {
+      "color": "muted_olive",
+      "quantity": 2
+    },
+    {
+      "color": "wavy_teal",
+      "quantity": 5
+    }
+  ],
+  "striped_plum": [
+    {
+      "color": "striped_magenta",
+      "quantity": 2
+    }
+  ],
+  "striped_turquoise": [
+    {
+      "color": "pale_magenta",
+      "quantity": 4
+    },
+    {
+      "color": "muted_green",
+      "quantity": 3
+    },
+    {
+      "color": "pale_blue",
+      "quantity": 4
+    }
+  ],
+  "dull_cyan": [
+    {
+      "color": "plaid_cyan",
+      "quantity": 4
+    },
+    {
+      "color": "vibrant_cyan",
+      "quantity": 1
+    },
+    {
+      "color": "shiny_violet",
+      "quantity": 5
+    },
+    {
+      "color": "drab_lavender",
+      "quantity": 3
+    }
+  ],
+  "vibrant_silver": [
+    {
+      "color": "vibrant_gray",
+      "quantity": 3
+    },
+    {
+      "color": "light_tomato",
+      "quantity": 3
+    }
+  ],
+  "light_lime": [
+    {
+      "color": "plaid_crimson",
+      "quantity": 5
+    }
+  ],
+  "posh_yellow": [
+    {
+      "color": "mirrored_blue",
+      "quantity": 1
+    },
+    {
+      "color": "bright_orange",
+      "quantity": 1
+    },
+    {
+      "color": "drab_lavender",
+      "quantity": 2
+    }
+  ],
+  "dull_blue": [
+    {
+      "color": "pale_chartreuse",
+      "quantity": 4
+    },
+    {
+      "color": "light_maroon",
+      "quantity": 2
+    }
+  ],
+  "faded_black": [
+    {
+      "color": "mirrored_brown",
+      "quantity": 4
+    }
+  ],
+  "bright_bronze": [
+    {
+      "color": "dim_silver",
+      "quantity": 5
+    }
+  ],
+  "drab_salmon": [
+    {
+      "color": "plaid_purple",
+      "quantity": 1
+    },
+    {
+      "color": "vibrant_crimson",
+      "quantity": 4
+    }
+  ],
+  "drab_maroon": [
+    {
+      "color": "shiny_gray",
+      "quantity": 5
+    },
+    {
+      "color": "dotted_tan",
+      "quantity": 4
+    }
+  ],
+  "plaid_red": [
+    {
+      "color": "dotted_indigo",
+      "quantity": 5
+    }
+  ],
+  "posh_chartreuse": [
+    {
+      "color": "posh_silver",
+      "quantity": 4
+    },
+    {
+      "color": "pale_white",
+      "quantity": 4
+    },
+    {
+      "color": "light_chartreuse",
+      "quantity": 3
+    },
+    {
+      "color": "light_black",
+      "quantity": 1
+    }
+  ],
+  "wavy_yellow": [
+    {
+      "color": "plaid_turquoise",
+      "quantity": 5
+    },
+    {
+      "color": "dark_gray",
+      "quantity": 1
+    }
+  ],
+  "vibrant_beige": [
+    {
+      "color": "pale_gray",
+      "quantity": 4
+    },
+    {
+      "color": "light_blue",
+      "quantity": 4
+    }
+  ],
+  "light_yellow": [
+    {
+      "color": "dim_fuchsia",
+      "quantity": 3
+    },
+    {
+      "color": "clear_violet",
+      "quantity": 2
+    },
+    {
+      "color": "clear_teal",
+      "quantity": 4
+    }
+  ],
+  "dim_black": [
+    {
+      "color": "wavy_beige",
+      "quantity": 1
+    },
+    {
+      "color": "dark_lavender",
+      "quantity": 1
+    }
+  ],
+  "shiny_bronze": [
+    {
+      "color": "faded_lime",
+      "quantity": 1
+    },
+    {
+      "color": "vibrant_green",
+      "quantity": 5
+    }
+  ],
+  "striped_bronze": [
+    {
+      "color": "vibrant_cyan",
+      "quantity": 1
+    },
+    {
+      "color": "faded_tomato",
+      "quantity": 1
+    },
+    {
+      "color": "faded_silver",
+      "quantity": 5
+    },
+    {
+      "color": "dim_violet",
+      "quantity": 5
+    }
+  ],
+  "dim_olive": [
+    {
+      "color": "clear_fuchsia",
+      "quantity": 5
+    },
+    {
+      "color": "dark_maroon",
+      "quantity": 4
+    }
+  ],
+  "muted_blue": [
+    {
+      "color": "plaid_salmon",
+      "quantity": 1
+    },
+    {
+      "color": "posh_purple",
+      "quantity": 3
+    },
+    {
+      "color": "drab_orange",
+      "quantity": 5
+    }
+  ],
+  "pale_fuchsia": [
+    {
+      "color": "dull_teal",
+      "quantity": 3
+    }
+  ],
+  "drab_tan": [
+    {
+      "color": "dull_fuchsia",
+      "quantity": 4
+    },
+    {
+      "color": "dark_violet",
+      "quantity": 2
+    }
+  ],
+  "striped_white": [],
+  "bright_gray": [
+    {
+      "color": "dark_bronze",
+      "quantity": 4
+    },
+    {
+      "color": "vibrant_lavender",
+      "quantity": 2
+    },
+    {
+      "color": "faded_cyan",
+      "quantity": 5
+    }
+  ],
+  "pale_aqua": [
+    {
+      "color": "dim_red",
+      "quantity": 1
+    }
+  ],
+  "posh_tomato": [
+    {
+      "color": "bright_orange",
+      "quantity": 3
+    },
+    {
+      "color": "dull_bronze",
+      "quantity": 1
+    }
+  ],
+  "mirrored_yellow": [
+    {
+      "color": "posh_brown",
+      "quantity": 5
+    },
+    {
+      "color": "plaid_brown",
+      "quantity": 2
+    },
+    {
+      "color": "muted_gold",
+      "quantity": 2
+    }
+  ],
+  "drab_cyan": [
+    {
+      "color": "dull_silver",
+      "quantity": 2
+    },
+    {
+      "color": "light_silver",
+      "quantity": 1
+    },
+    {
+      "color": "vibrant_gray",
+      "quantity": 5
+    },
+    {
+      "color": "mirrored_crimson",
+      "quantity": 5
+    }
+  ],
+  "wavy_gold": [
+    {
+      "color": "muted_plum",
+      "quantity": 2
+    }
+  ],
+  "plaid_teal": [
+    {
+      "color": "shiny_black",
+      "quantity": 4
+    },
+    {
+      "color": "bright_olive",
+      "quantity": 4
+    },
+    {
+      "color": "mirrored_maroon",
+      "quantity": 3
+    }
+  ],
+  "posh_black": [
+    {
+      "color": "faded_orange",
+      "quantity": 4
+    }
+  ],
+  "striped_silver": [
+    {
+      "color": "muted_cyan",
+      "quantity": 5
+    }
+  ],
+  "bright_orange": [
+    {
+      "color": "dull_tan",
+      "quantity": 1
+    },
+    {
+      "color": "dull_aqua",
+      "quantity": 5
+    },
+    {
+      "color": "plaid_turquoise",
+      "quantity": 5
+    },
+    {
+      "color": "bright_tomato",
+      "quantity": 1
+    }
+  ],
+  "clear_lime": [
+    {
+      "color": "pale_violet",
+      "quantity": 1
+    }
+  ],
+  "vibrant_gray": [
+    {
+      "color": "bright_black",
+      "quantity": 5
+    },
+    {
+      "color": "vibrant_purple",
+      "quantity": 1
+    },
+    {
+      "color": "mirrored_coral",
+      "quantity": 5
+    },
+    {
+      "color": "plaid_magenta",
+      "quantity": 5
+    }
+  ],
+  "mirrored_salmon": [
+    {
+      "color": "faded_coral",
+      "quantity": 2
+    },
+    {
+      "color": "striped_silver",
+      "quantity": 4
+    }
+  ],
+  "dim_coral": [
+    {
+      "color": "striped_white",
+      "quantity": 4
+    },
+    {
+      "color": "light_violet",
+      "quantity": 1
+    },
+    {
+      "color": "dark_brown",
+      "quantity": 1
+    }
+  ],
+  "dark_indigo": [
+    {
+      "color": "vibrant_cyan",
+      "quantity": 5
+    }
+  ],
+  "dotted_bronze": [
+    {
+      "color": "drab_olive",
+      "quantity": 1
+    },
+    {
+      "color": "bright_orange",
+      "quantity": 4
+    },
+    {
+      "color": "striped_yellow",
+      "quantity": 1
+    }
+  ],
+  "dotted_plum": [
+    {
+      "color": "wavy_beige",
+      "quantity": 3
+    },
+    {
+      "color": "striped_magenta",
+      "quantity": 2
+    }
+  ],
+  "mirrored_aqua": [
+    {
+      "color": "wavy_purple",
+      "quantity": 2
+    },
+    {
+      "color": "dull_brown",
+      "quantity": 5
+    },
+    {
+      "color": "clear_maroon",
+      "quantity": 1
+    },
+    {
+      "color": "posh_orange",
+      "quantity": 4
+    }
+  ],
+  "dark_green": [
+    {
+      "color": "pale_yellow",
+      "quantity": 2
+    },
+    {
+      "color": "vibrant_cyan",
+      "quantity": 4
+    },
+    {
+      "color": "dim_turquoise",
+      "quantity": 4
+    }
+  ],
+  "dotted_chartreuse": [
+    {
+      "color": "drab_magenta",
+      "quantity": 2
+    },
+    {
+      "color": "clear_coral",
+      "quantity": 1
+    },
+    {
+      "color": "striped_white",
+      "quantity": 5
+    }
+  ],
+  "pale_brown": [
+    {
+      "color": "faded_olive",
+      "quantity": 5
+    },
+    {
+      "color": "light_turquoise",
+      "quantity": 4
+    },
+    {
+      "color": "bright_blue",
+      "quantity": 2
+    }
+  ],
+  "drab_gold": [
+    {
+      "color": "wavy_chartreuse",
+      "quantity": 4
+    },
+    {
+      "color": "plaid_aqua",
+      "quantity": 2
+    },
+    {
+      "color": "wavy_orange",
+      "quantity": 4
+    }
+  ],
+  "plaid_blue": [
+    {
+      "color": "faded_fuchsia",
+      "quantity": 4
+    },
+    {
+      "color": "pale_bronze",
+      "quantity": 3
+    },
+    {
+      "color": "faded_violet",
+      "quantity": 5
+    }
+  ],
+  "bright_lime": [
+    {
+      "color": "muted_turquoise",
+      "quantity": 2
+    }
+  ],
+  "clear_cyan": [
+    {
+      "color": "muted_crimson",
+      "quantity": 1
+    },
+    {
+      "color": "dotted_gold",
+      "quantity": 5
+    },
+    {
+      "color": "dotted_crimson",
+      "quantity": 5
+    }
+  ],
+  "bright_indigo": [
+    {
+      "color": "muted_turquoise",
+      "quantity": 4
+    },
+    {
+      "color": "shiny_black",
+      "quantity": 2
+    }
+  ],
+  "posh_lavender": [
+    {
+      "color": "faded_tan",
+      "quantity": 1
+    },
+    {
+      "color": "dark_coral",
+      "quantity": 4
+    },
+    {
+      "color": "muted_plum",
+      "quantity": 2
+    }
+  ],
+  "striped_maroon": [
+    {
+      "color": "dull_magenta",
+      "quantity": 4
+    },
+    {
+      "color": "pale_tan",
+      "quantity": 5
+    },
+    {
+      "color": "dark_teal",
+      "quantity": 2
+    },
+    {
+      "color": "dotted_gray",
+      "quantity": 3
+    }
+  ],
+  "light_aqua": [
+    {
+      "color": "faded_lime",
+      "quantity": 1
+    }
+  ],
+  "shiny_coral": [
+    {
+      "color": "dim_orange",
+      "quantity": 2
+    },
+    {
+      "color": "striped_beige",
+      "quantity": 4
+    }
+  ],
+  "vibrant_green": [
+    {
+      "color": "shiny_magenta",
+      "quantity": 3
+    },
+    {
+      "color": "drab_magenta",
+      "quantity": 4
+    },
+    {
+      "color": "posh_silver",
+      "quantity": 4
+    },
+    {
+      "color": "shiny_orange",
+      "quantity": 2
+    }
+  ],
+  "plaid_maroon": [
+    {
+      "color": "dark_coral",
+      "quantity": 3
+    },
+    {
+      "color": "dim_green",
+      "quantity": 5
+    },
+    {
+      "color": "dim_lime",
+      "quantity": 4
+    }
+  ],
+  "dull_red": [
+    {
+      "color": "shiny_fuchsia",
+      "quantity": 4
+    }
+  ],
+  "light_crimson": [
+    {
+      "color": "dull_tomato",
+      "quantity": 2
+    }
+  ],
+  "pale_beige": [
+    {
+      "color": "muted_gold",
+      "quantity": 4
+    }
+  ],
+  "dotted_lavender": [
+    {
+      "color": "muted_gold",
+      "quantity": 1
+    },
+    {
+      "color": "dim_violet",
+      "quantity": 1
+    }
+  ],
+  "dim_orange": [
+    {
+      "color": "faded_chartreuse",
+      "quantity": 2
+    }
+  ],
+  "clear_white": [
+    {
+      "color": "posh_teal",
+      "quantity": 3
+    }
+  ],
+  "muted_brown": [
+    {
+      "color": "light_cyan",
+      "quantity": 5
+    },
+    {
+      "color": "drab_purple",
+      "quantity": 4
+    },
+    {
+      "color": "light_black",
+      "quantity": 2
+    },
+    {
+      "color": "dark_indigo",
+      "quantity": 1
+    }
+  ],
+  "striped_aqua": [
+    {
+      "color": "faded_aqua",
+      "quantity": 2
+    }
+  ],
+  "dotted_turquoise": [
+    {
+      "color": "shiny_white",
+      "quantity": 2
+    },
+    {
+      "color": "striped_lavender",
+      "quantity": 1
+    }
+  ],
+  "dim_maroon": [
+    {
+      "color": "drab_tan",
+      "quantity": 3
+    },
+    {
+      "color": "muted_tomato",
+      "quantity": 4
+    },
+    {
+      "color": "striped_lavender",
+      "quantity": 2
+    },
+    {
+      "color": "plaid_silver",
+      "quantity": 3
+    }
+  ],
+  "drab_tomato": [
+    {
+      "color": "wavy_gray",
+      "quantity": 1
+    },
+    {
+      "color": "vibrant_teal",
+      "quantity": 2
+    }
+  ],
+  "striped_green": [
+    {
+      "color": "vibrant_tomato",
+      "quantity": 4
+    },
+    {
+      "color": "dull_brown",
+      "quantity": 3
+    },
+    {
+      "color": "light_tomato",
+      "quantity": 4
+    }
+  ],
+  "dull_magenta": [
+    {
+      "color": "plaid_chartreuse",
+      "quantity": 2
+    },
+    {
+      "color": "light_indigo",
+      "quantity": 2
+    }
+  ],
+  "vibrant_lavender": [
+    {
+      "color": "dull_purple",
+      "quantity": 1
+    },
+    {
+      "color": "shiny_crimson",
+      "quantity": 2
+    }
+  ],
+  "faded_olive": [
+    {
+      "color": "dark_gray",
+      "quantity": 1
+    }
+  ],
+  "bright_aqua": [
+    {
+      "color": "pale_crimson",
+      "quantity": 2
+    }
+  ],
+  "wavy_aqua": [
+    {
+      "color": "light_gray",
+      "quantity": 3
+    },
+    {
+      "color": "posh_red",
+      "quantity": 1
+    }
+  ],
+  "shiny_turquoise": [
+    {
+      "color": "dotted_black",
+      "quantity": 4
+    },
+    {
+      "color": "drab_gray",
+      "quantity": 4
+    },
+    {
+      "color": "muted_magenta",
+      "quantity": 1
+    }
+  ],
+  "muted_green": [
+    {
+      "color": "striped_white",
+      "quantity": 5
+    },
+    {
+      "color": "vibrant_turquoise",
+      "quantity": 3
+    },
+    {
+      "color": "dull_turquoise",
+      "quantity": 1
+    }
+  ],
+  "faded_yellow": [
+    {
+      "color": "dim_red",
+      "quantity": 2
+    }
+  ],
+  "clear_fuchsia": [
+    {
+      "color": "dark_salmon",
+      "quantity": 1
+    },
+    {
+      "color": "dim_lime",
+      "quantity": 2
+    },
+    {
+      "color": "drab_magenta",
+      "quantity": 5
+    },
+    {
+      "color": "faded_orange",
+      "quantity": 2
+    }
+  ],
+  "bright_coral": [
+    {
+      "color": "wavy_gray",
+      "quantity": 4
+    },
+    {
+      "color": "dull_tan",
+      "quantity": 1
+    }
+  ],
+  "muted_bronze": [
+    {
+      "color": "drab_turquoise",
+      "quantity": 3
+    },
+    {
+      "color": "clear_aqua",
+      "quantity": 5
+    },
+    {
+      "color": "dull_aqua",
+      "quantity": 4
+    },
+    {
+      "color": "dim_violet",
+      "quantity": 2
+    }
+  ],
+  "clear_violet": [
+    {
+      "color": "plaid_salmon",
+      "quantity": 1
+    },
+    {
+      "color": "dark_lavender",
+      "quantity": 5
+    }
+  ],
+  "dark_teal": [
+    {
+      "color": "clear_teal",
+      "quantity": 2
+    },
+    {
+      "color": "dull_chartreuse",
+      "quantity": 3
+    },
+    {
+      "color": "wavy_purple",
+      "quantity": 3
+    }
+  ],
+  "posh_green": [
+    {
+      "color": "dark_crimson",
+      "quantity": 5
+    },
+    {
+      "color": "dotted_chartreuse",
+      "quantity": 2
+    }
+  ],
+  "faded_magenta": [
+    {
+      "color": "striped_silver",
+      "quantity": 1
+    },
+    {
+      "color": "light_beige",
+      "quantity": 5
+    },
+    {
+      "color": "posh_olive",
+      "quantity": 1
+    },
+    {
+      "color": "vibrant_coral",
+      "quantity": 5
+    }
+  ],
+  "clear_crimson": [
+    {
+      "color": "drab_gray",
+      "quantity": 3
+    }
+  ],
+  "pale_indigo": [
+    {
+      "color": "faded_red",
+      "quantity": 1
+    }
+  ],
+  "dull_brown": [
+    {
+      "color": "clear_purple",
+      "quantity": 1
+    }
+  ],
+  "clear_brown": [
+    {
+      "color": "mirrored_coral",
+      "quantity": 2
+    },
+    {
+      "color": "pale_white",
+      "quantity": 5
+    },
+    {
+      "color": "dotted_bronze",
+      "quantity": 1
+    },
+    {
+      "color": "wavy_orange",
+      "quantity": 5
+    }
+  ],
+  "drab_aqua": [
+    {
+      "color": "vibrant_chartreuse",
+      "quantity": 1
+    },
+    {
+      "color": "drab_tomato",
+      "quantity": 4
+    },
+    {
+      "color": "shiny_gold",
+      "quantity": 2
+    }
+  ],
+  "shiny_black": [
+    {
+      "color": "dull_lime",
+      "quantity": 2
+    }
+  ],
+  "dotted_purple": [
+    {
+      "color": "faded_orange",
+      "quantity": 3
+    },
+    {
+      "color": "dotted_chartreuse",
+      "quantity": 1
+    },
+    {
+      "color": "pale_indigo",
+      "quantity": 4
+    }
+  ],
+  "posh_lime": [
+    {
+      "color": "dotted_tan",
+      "quantity": 5
+    },
+    {
+      "color": "shiny_magenta",
+      "quantity": 1
+    }
+  ],
+  "drab_plum": [
+    {
+      "color": "plaid_silver",
+      "quantity": 3
+    },
+    {
+      "color": "dark_aqua",
+      "quantity": 2
+    },
+    {
+      "color": "bright_crimson",
+      "quantity": 2
+    },
+    {
+      "color": "posh_purple",
+      "quantity": 1
+    }
+  ],
+  "striped_gray": [
+    {
+      "color": "posh_purple",
+      "quantity": 1
+    }
+  ],
+  "light_magenta": [
+    {
+      "color": "dark_brown",
+      "quantity": 5
+    }
+  ],
+  "striped_magenta": [
+    {
+      "color": "faded_orange",
+      "quantity": 5
+    },
+    {
+      "color": "faded_red",
+      "quantity": 2
+    },
+    {
+      "color": "posh_silver",
+      "quantity": 2
+    },
+    {
+      "color": "dark_gray",
+      "quantity": 3
+    }
+  ],
+  "dark_bronze": [
+    {
+      "color": "faded_coral",
+      "quantity": 1
+    },
+    {
+      "color": "shiny_plum",
+      "quantity": 1
+    },
+    {
+      "color": "shiny_white",
+      "quantity": 5
+    }
+  ],
+  "bright_teal": [
+    {
+      "color": "dark_tan",
+      "quantity": 4
+    }
+  ],
+  "mirrored_tomato": [
+    {
+      "color": "muted_tomato",
+      "quantity": 1
+    },
+    {
+      "color": "dull_yellow",
+      "quantity": 2
+    },
+    {
+      "color": "posh_white",
+      "quantity": 2
+    }
+  ],
+  "bright_white": [
+    {
+      "color": "faded_silver",
+      "quantity": 5
+    },
+    {
+      "color": "dark_chartreuse",
+      "quantity": 5
+    }
+  ],
+  "wavy_turquoise": [
+    {
+      "color": "drab_fuchsia",
+      "quantity": 3
+    },
+    {
+      "color": "dull_violet",
+      "quantity": 3
+    },
+    {
+      "color": "dark_tomato",
+      "quantity": 4
+    }
+  ],
+  "posh_coral": [
+    {
+      "color": "shiny_gold",
+      "quantity": 5
+    },
+    {
+      "color": "vibrant_olive",
+      "quantity": 3
+    },
+    {
+      "color": "dotted_brown",
+      "quantity": 3
+    },
+    {
+      "color": "dim_chartreuse",
+      "quantity": 2
+    }
+  ],
+  "dotted_fuchsia": [
+    {
+      "color": "dim_coral",
+      "quantity": 5
+    },
+    {
+      "color": "drab_gray",
+      "quantity": 5
+    },
+    {
+      "color": "striped_white",
+      "quantity": 4
+    },
+    {
+      "color": "bright_orange",
+      "quantity": 4
+    }
+  ],
+  "vibrant_magenta": [
+    {
+      "color": "plaid_salmon",
+      "quantity": 3
+    },
+    {
+      "color": "dotted_lime",
+      "quantity": 1
+    },
+    {
+      "color": "clear_crimson",
+      "quantity": 1
+    },
+    {
+      "color": "dotted_tan",
+      "quantity": 2
+    }
+  ],
+  "faded_cyan": [
+    {
+      "color": "faded_violet",
+      "quantity": 3
+    },
+    {
+      "color": "light_green",
+      "quantity": 2
+    }
+  ],
+  "dark_red": [
+    {
+      "color": "dim_violet",
+      "quantity": 1
+    },
+    {
+      "color": "vibrant_olive",
+      "quantity": 4
+    },
+    {
+      "color": "drab_olive",
+      "quantity": 5
+    },
+    {
+      "color": "faded_yellow",
+      "quantity": 5
+    }
+  ],
+  "faded_aqua": [
+    {
+      "color": "bright_plum",
+      "quantity": 5
+    },
+    {
+      "color": "light_black",
+      "quantity": 3
+    },
+    {
+      "color": "muted_yellow",
+      "quantity": 1
+    },
+    {
+      "color": "mirrored_bronze",
+      "quantity": 3
+    }
+  ],
+  "wavy_blue": [
+    {
+      "color": "wavy_teal",
+      "quantity": 5
+    },
+    {
+      "color": "shiny_magenta",
+      "quantity": 5
+    },
+    {
+      "color": "drab_olive",
+      "quantity": 5
+    },
+    {
+      "color": "dark_coral",
+      "quantity": 5
+    }
+  ],
+  "striped_orange": [
+    {
+      "color": "striped_white",
+      "quantity": 4
+    },
+    {
+      "color": "dim_red",
+      "quantity": 3
+    },
+    {
+      "color": "clear_coral",
+      "quantity": 3
+    },
+    {
+      "color": "shiny_gold",
+      "quantity": 4
+    }
+  ],
+  "pale_orange": [
+    {
+      "color": "dim_green",
+      "quantity": 3
+    },
+    {
+      "color": "dark_olive",
+      "quantity": 3
+    }
+  ],
+  "drab_violet": [
+    {
+      "color": "striped_gold",
+      "quantity": 3
+    },
+    {
+      "color": "plaid_magenta",
+      "quantity": 5
+    }
+  ],
+  "dark_salmon": [
+    {
+      "color": "clear_coral",
+      "quantity": 5
+    },
+    {
+      "color": "muted_gold",
+      "quantity": 2
+    },
+    {
+      "color": "bright_tomato",
+      "quantity": 5
+    }
+  ],
+  "mirrored_lime": [
+    {
+      "color": "plaid_maroon",
+      "quantity": 2
+    },
+    {
+      "color": "shiny_olive",
+      "quantity": 1
+    },
+    {
+      "color": "vibrant_coral",
+      "quantity": 2
+    }
+  ],
+  "dull_black": [
+    {
+      "color": "vibrant_brown",
+      "quantity": 3
+    },
+    {
+      "color": "clear_black",
+      "quantity": 4
+    }
+  ],
+  "clear_gray": [
+    {
+      "color": "drab_cyan",
+      "quantity": 5
+    },
+    {
+      "color": "dotted_salmon",
+      "quantity": 3
+    }
+  ],
+  "light_maroon": [
+    {
+      "color": "plaid_fuchsia",
+      "quantity": 5
+    },
+    {
+      "color": "muted_purple",
+      "quantity": 4
+    }
+  ],
+  "drab_white": [
+    {
+      "color": "shiny_gray",
+      "quantity": 5
+    },
+    {
+      "color": "posh_orange",
+      "quantity": 5
+    }
+  ],
+  "dim_chartreuse": [
+    {
+      "color": "wavy_blue",
+      "quantity": 3
+    },
+    {
+      "color": "bright_aqua",
+      "quantity": 1
+    }
+  ],
+  "dotted_black": [
+    {
+      "color": "pale_bronze",
+      "quantity": 5
+    }
+  ],
+  "striped_purple": [
+    {
+      "color": "vibrant_black",
+      "quantity": 3
+    }
+  ],
+  "shiny_tomato": [
+    {
+      "color": "faded_blue",
+      "quantity": 2
+    }
+  ],
+  "drab_coral": [
+    {
+      "color": "pale_beige",
+      "quantity": 2
+    }
+  ],
+  "striped_cyan": [
+    {
+      "color": "dark_lime",
+      "quantity": 2
+    },
+    {
+      "color": "light_plum",
+      "quantity": 5
+    }
+  ],
+  "dotted_yellow": [
+    {
+      "color": "dotted_bronze",
+      "quantity": 4
+    }
+  ],
+  "dark_maroon": [
+    {
+      "color": "dark_silver",
+      "quantity": 1
+    },
+    {
+      "color": "dark_black",
+      "quantity": 1
+    },
+    {
+      "color": "striped_silver",
+      "quantity": 2
+    },
+    {
+      "color": "striped_white",
+      "quantity": 5
+    }
+  ],
+  "drab_chartreuse": [
+    {
+      "color": "muted_maroon",
+      "quantity": 4
+    }
+  ],
+  "plaid_lime": [
+    {
+      "color": "dim_teal",
+      "quantity": 2
+    },
+    {
+      "color": "posh_chartreuse",
+      "quantity": 2
+    }
+  ],
+  "dim_fuchsia": [
+    {
+      "color": "mirrored_turquoise",
+      "quantity": 4
+    },
+    {
+      "color": "light_gray",
+      "quantity": 4
+    },
+    {
+      "color": "mirrored_black",
+      "quantity": 5
+    },
+    {
+      "color": "faded_yellow",
+      "quantity": 3
+    }
+  ],
+  "bright_cyan": [
+    {
+      "color": "plaid_crimson",
+      "quantity": 4
+    },
+    {
+      "color": "dim_plum",
+      "quantity": 3
+    },
+    {
+      "color": "mirrored_olive",
+      "quantity": 4
+    },
+    {
+      "color": "muted_plum",
+      "quantity": 4
+    }
+  ],
+  "striped_olive": [
+    {
+      "color": "shiny_purple",
+      "quantity": 3
+    }
+  ],
+  "dull_bronze": [
+    {
+      "color": "drab_tomato",
+      "quantity": 2
+    },
+    {
+      "color": "dull_teal",
+      "quantity": 3
+    },
+    {
+      "color": "dim_silver",
+      "quantity": 4
+    },
+    {
+      "color": "faded_turquoise",
+      "quantity": 4
+    }
+  ],
+  "wavy_purple": [
+    {
+      "color": "wavy_black",
+      "quantity": 4
+    },
+    {
+      "color": "clear_purple",
+      "quantity": 4
+    },
+    {
+      "color": "dark_fuchsia",
+      "quantity": 2
+    }
+  ],
+  "wavy_silver": [
+    {
+      "color": "plaid_tomato",
+      "quantity": 2
+    }
+  ],
+  "plaid_magenta": [
+    {
+      "color": "faded_red",
+      "quantity": 3
+    },
+    {
+      "color": "vibrant_black",
+      "quantity": 2
+    }
+  ],
+  "dark_chartreuse": [
+    {
+      "color": "dim_red",
+      "quantity": 1
+    },
+    {
+      "color": "vibrant_olive",
+      "quantity": 4
+    },
+    {
+      "color": "dark_black",
+      "quantity": 4
+    }
+  ],
+  "striped_teal": [
+    {
+      "color": "mirrored_fuchsia",
+      "quantity": 1
+    },
+    {
+      "color": "wavy_black",
+      "quantity": 1
+    },
+    {
+      "color": "dim_yellow",
+      "quantity": 5
+    },
+    {
+      "color": "dotted_orange",
+      "quantity": 1
+    }
+  ],
+  "dull_green": [
+    {
+      "color": "posh_tomato",
+      "quantity": 3
+    },
+    {
+      "color": "bright_plum",
+      "quantity": 4
+    }
+  ],
+  "drab_lime": [
+    {
+      "color": "shiny_blue",
+      "quantity": 2
+    },
+    {
+      "color": "light_bronze",
+      "quantity": 5
+    },
+    {
+      "color": "dim_magenta",
+      "quantity": 4
+    },
+    {
+      "color": "mirrored_crimson",
+      "quantity": 3
+    }
+  ],
+  "faded_green": [
+    {
+      "color": "posh_fuchsia",
+      "quantity": 1
+    },
+    {
+      "color": "dim_plum",
+      "quantity": 5
+    }
+  ],
+  "light_violet": [
+    {
+      "color": "dark_crimson",
+      "quantity": 2
+    },
+    {
+      "color": "dark_gray",
+      "quantity": 3
+    },
+    {
+      "color": "muted_gold",
+      "quantity": 5
+    }
+  ],
+  "bright_fuchsia": [
+    {
+      "color": "dull_tomato",
+      "quantity": 4
+    },
+    {
+      "color": "wavy_fuchsia",
+      "quantity": 4
+    },
+    {
+      "color": "clear_salmon",
+      "quantity": 4
+    }
+  ],
+  "drab_green": [
+    {
+      "color": "vibrant_black",
+      "quantity": 4
+    },
+    {
+      "color": "pale_salmon",
+      "quantity": 5
+    },
+    {
+      "color": "pale_olive",
+      "quantity": 4
+    },
+    {
+      "color": "clear_crimson",
+      "quantity": 5
+    }
+  ],
+  "muted_salmon": [
+    {
+      "color": "clear_magenta",
+      "quantity": 2
+    },
+    {
+      "color": "wavy_crimson",
+      "quantity": 3
+    }
+  ],
+  "shiny_maroon": [
+    {
+      "color": "dim_crimson",
+      "quantity": 2
+    }
+  ]
+}
